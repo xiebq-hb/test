@@ -1,0 +1,109 @@
+.main{
+    padding: 20px;
+    display: flex;
+}
+.main2{
+    padding: 20px;
+    display: flex;
+    border:2px solid #304bff;
+}
+.left{
+    flex: 1;
+    border:5px solid red;
+}
+.right{
+    flex: 2;
+    border:5px solid red;
+}
+.clear{
+    clear: both;
+}
+.middle{
+    margin: auto;
+    border:2px solid red;
+}
+
+p {
+    padding-left: 60px;
+}
+#foo {
+    border-radius: 50px;
+    width: 50px;
+    height: 50px;
+    background: #c00;
+    position: absolute;
+    top: 0;
+    left: 0;
+    transition: transform 1s;
+}
+
+.green {
+    line-height: 1.1;
+    border: solid limegreen;
+}
+.red {
+    line-height: 2em;
+    border: solid red;
+}
+h1 {
+    font-size: 30px;
+}
+.line-box {
+    width: 18em;
+    display: inline-block;
+    vertical-align: top;
+    font-size: 15px;
+}
+
+img.top { vertical-align: text-top; }
+img.bottom { vertical-align: text-bottom; }
+img.middle { vertical-align: middle; }
+
+
+.dashed-box {
+    position: relative;
+    z-index: 1;
+    border: dashed;
+    height: 8em;
+    margin-bottom: 1em;
+    margin-top: 2em;
+}
+.gold-box {
+    position: absolute;
+    z-index: 3; /* put .gold-box above .green-box and .dashed-box */
+    background: gold;
+    width: 80%;
+    left: 60px;
+    top: 3em;
+}
+.green-box {
+    position: absolute;
+    z-index: 2; /* put .green-box above .dashed-box */
+    background: lightgreen;
+    width: 20%;
+    left: 65%;
+    top: -25px;
+    height: 7em;
+    opacity: 0.9;
+}
+
+
+.warning {
+    background: pink;
+}
+.topbanner {
+    background: url("https://mdn.mozillademos.org/files/11983/starsolid.gif") #99f repeat-y fixed;
+}
+
+.pclass {
+    background-image: url("https://mdn.mozillademos.org/files/12057/starsolid.gif");
+    background-attachment: fixed;
+}
+
+.pclass2  {
+    background-image: url("https://mdn.mozillademos.org/files/12057/starsolid.gif"),
+    url("https://mdn.mozillademos.org/files/12059/startransparent.gif");
+    background-attachment: fixed, scroll;
+    background-repeat: no-repeat, repeat-y;
+}
+

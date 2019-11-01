@@ -1,0 +1,18 @@
+08:53:01.410 [main] INFO  c.a.b.d.c.e.WelcomeLogoApplicationListener - [onApplicationEvent,53] - 
+
+ :: Dubbo Spring Boot (v0.2.0) : https://github.com/apache/incubator-dubbo-spring-boot-project
+ :: Dubbo (v2.6.2) : https://github.com/apache/incubator-dubbo
+ :: Google group : dev@dubbo.incubator.apache.org
+
+08:53:01.479 [main] INFO  c.a.b.d.c.e.OverrideDubboConfigApplicationListener - [onApplicationEvent,68] - Dubbo Config was overridden by externalized configuration {}
+08:53:04.658 [main] INFO  c.d.c.DukerApplication - [logStarting,50] - Starting DukerApplication on SC-201906251903 with PID 18676 (E:\peosonal\duker\target\classes started by Administrator in E:\peosonal\duker)
+08:53:04.660 [main] INFO  c.d.c.DukerApplication - [logStartupProfileInfo,648] - No active profile set, falling back to default profiles: default
+08:53:27.787 [main] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-9026"]
+08:53:27.906 [main] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+08:53:27.909 [main] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.24]
+08:53:28.430 [main] INFO  o.a.c.c.C.[.[.[/duker] - [log,173] - Initializing Spring embedded WebApplicationContext
+08:53:31.534 [main] INFO  o.m.p.j.JmsPoolConnectionFactory - [setConnectionFactory,198] - Provided ConnectionFactory implementation is JMS 2.0+ capable.
+08:53:38.439 [main] INFO  c.a.d.s.b.a.DruidDataSourceAutoConfigure - [dataSource,56] - Init DruidDataSource
+08:53:39.987 [main] INFO  c.a.d.p.DruidDataSource - [init,930] - {dataSource-1} inited
+08:53:53.780 [main] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Starting ProtocolHandler ["http-nio-9026"]
+08:53:53.925 [main] INFO  c.d.c.DukerApplication - [logStarted,59] - Started DukerApplication in 56.779 seconds (JVM running for 81.845)

@@ -1,0 +1,244 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <link href="./css/demo3/css-1.css" rel="stylesheet">
+    <style>
+        .polling_message {
+            color: white;
+            float: left;
+            margin-right: 2%;
+        }
+        .view_port {
+            background-color: black;
+            height: 25px;
+            width: 100%;
+            overflow: hidden;
+        }
+
+        .cylon_eye {
+            background-color: red;
+            background-image: linear-gradient(to right,
+            rgba(0, 0, 0, .9) 25%,
+            rgba(0, 0, 0, .1) 50%,
+            rgba(0, 0, 0, .9) 75%);
+            color: white;
+            height: 100%;
+            width: 20%;
+
+            -webkit-animation: 4s linear 0s infinite alternate move_eye;
+            animation: 4s linear 0s infinite alternate move_eye;
+        }
+
+        @-webkit-keyframes move_eye { from { margin-left: -20%; } to { margin-left: 100%; }  }
+        @keyframes move_eye { from { margin-left: -20%; } to { margin-left: 100%; }  }
+
+
+
+        @keyframes colorchange {
+            0% { background: yellow }
+            100% { background: blue }
+        }
+        .box {
+            width: 100px;
+            height: 100px;
+            border: 1px solid black;
+        }
+        .runButton {
+            animation: colorchange 2s;
+        }
+
+
+        .box1 {
+            border-style: solid;
+            border-width: 1px;
+            display: block;
+            width: 100px;
+            height: 100px;
+            background-color: #0000FF;
+            -webkit-transition: width 2s, height 2s, background-color 2s, -webkit-transform 3s;
+            transition: width 2s, height 2s, background-color 2s, transform 3s;
+        }
+
+        .box1:hover {
+            background-color: #FFCCCC;
+            width: 200px;
+            height: 200px;
+            -webkit-transform: rotate(180deg);
+            transform: rotate(180deg);
+        }
+
+
+        .parent { width: 250px; height:125px;}
+        .box2 {
+            width: 100px;
+            height: 100px;
+            background-color: red;
+            font-size: 20px;
+            left: 0px;
+            top: 0px;
+            position:absolute;
+            -webkit-transition-property: width height background-color font-size left top transform -webkit-transform color;
+            -webkit-transition-duration: 0.5s;
+            -webkit-transition-timing-function: ease-in-out;
+            transition-property: width height background-color font-size left top transform -webkit-transform color;
+            transition-duration: 0.5s;
+            transition-timing-function: ease-in-out;
+        }
+        .box3{
+            transform: rotate(270deg);
+            -webkit-transform: rotate(270deg);
+            width: 50px;
+            height: 50px;
+            background-color: blue;
+            color: yellow;
+            font-size: 18px;
+            left: 150px;
+            top: 25px;
+            position: absolute;
+            -webkit-transition-property: width height background-color font-size left top transform -webkit-transform color;
+            -webkit-transition-duration: 0.5s;
+            -webkit-transition-timing-function: ease-in-out;
+            transition-property: width height background-color font-size left top transform -webkit-transformv color;
+            transition-duration: 0.5s;
+            transition-timing-function: ease-in-out;
+        }
+
+    </style>
+</head>
+<body>
+
+    <!-- 动画效果1 -->
+    <div class="view_port">
+        <div class="polling_message">
+            Listening for dispatches
+        </div>
+        <div class="cylon_eye"></div>
+    </div>
+    <hr>
+
+    <!-- 动画效果2 -->
+    <div class="box"></div>
+    <div class="runButton">Click me to run the animation</div>
+
+    <!-- 动画效果3 -->
+    <hr>
+    <p>The box below combines transitions for: width, height, background-color, transform. Hover over the box to see these properties animated.</p>
+    <div class="box1">Sample</div>
+
+    <!-- 动画效果4 -->
+    <hr>
+    <div class="parent">
+        <div class="box2">Lorem</div>
+    </div>
+
+    <!-- div横排布局 -->
+    <hr>
+    <div class="main">
+        <div class="left">
+            左侧区域
+        </div>
+        <div class="right">
+            右侧区域
+        </div>
+        <div class="left"></div>
+    </div>
+
+    <!-- div居中布局 -->
+    <hr>
+    <div class="main2">
+        <div class="middle">
+            上下左右居中
+        </div>
+    </div>
+
+    <!-- 动画 -->
+    <hr>
+    <p>Click anywhere to move the ball</p>
+    <div id="foo"></div>
+
+    <!-- lineheigh例子 -->
+    <hr>
+    <div class="line-box green">
+        <h1>Avoid unexpected results by using unitless line-height.</h1>
+    </div>
+    <div class="line-box red">
+        <h1>Avoid unexpected results by using unitless line-height.</h1>
+    </div>
+
+    <!-- 垂直对齐 | vertical-align -->
+    <hr>
+    <div>An <img src="https://mdn.mozillademos.org/files/12245/frame_image.svg" alt="link" width="32" height="32" /> image with a default alignment.</div>
+    <div>An <img class="top" src="https://mdn.mozillademos.org/files/12245/frame_image.svg" alt="link" width="32" height="32" /> image with a text-top alignment.</div>
+    <div>An <img class="bottom" src="https://mdn.mozillademos.org/files/12245/frame_image.svg" alt="link" width="32" height="32" /> image with a text-bottom alignment.</div>
+    <div>An <img class="middle" src="https://mdn.mozillademos.org/files/12245/frame_image.svg" alt="link" width="32" height="32" /> image with a middle alignment.</div>
+
+    <!-- z-index：谁的值越大，谁就在最顶层，值小的会被覆盖再底下 -->
+    <hr>
+    <div class="dashed-box">Dashed box
+        <span class="gold-box">Gold box</span>
+        <span class="green-box">Green box</span>
+    </div>
+
+    <!-- 背景和边框:background -->
+    <hr>
+    <p class="topbanner">
+        Starry sky<br/>
+        Twinkle twinkle<br/>
+        Starry sky
+    </p>
+    <p class="warning">Here is a paragraph<p>
+
+
+    <!-- 背景和边框:background-image和background-attachment -->
+    <hr>
+    <p class="pclass">
+        There were doors all round the hall, but they were all locked; and when
+        Alice had been all the way down one side and up the other, trying every
+        door, she walked sadly down the middle, wondering how she was ever to
+        get out again.
+    </p>
+
+    <!-- 背景和边框:background-image和background-attachment -->
+    <hr>
+    <p class="pclass2">
+        There were doors all round the hall, but they were all locked; and when
+        Alice had been all the way down one side and up the other, trying every
+        door, she walked sadly down the middle, wondering how she was ever to
+        get out again.
+
+        Suddenly she came upon a little three-legged table, all made of solid
+        glass; there was nothing on it except a tiny golden key, and Alice's
+        first thought was that it might belong to one of the doors of the hall;
+        but, alas! either the locks were too large, or the key was too small,
+        but at any rate it would not open any of them. However, on the second
+        time round, she came upon a low curtain she had not noticed before, and
+        behind it was a little door about fifteen inches high: she tried the
+        little golden key in the lock, and to her great delight it fitted!
+    </p>
+
+    <div style="height: 100px"></div>
+    <script type="text/javascript" src="js/demo3/demo-1.js"></script>
+</body>
+<script type="text/javascript">
+    function play() {
+        document.querySelector(".box").className = "box";
+        window.requestAnimationFrame(function(time) {
+            window.requestAnimationFrame(function(time) {
+                document.querySelector(".box").className = "box changing";
+            });
+        });
+    }
+
+    function updateTransition() {
+        var el = document.querySelector("div.box2");
+        if (el) {
+            el.className = "box3";
+        } else {
+            el = document.querySelector("div.box3");
+            el.className = "box2";
+        }
+        return el;
+    }
+    var intervalID = window.setInterval(updateTransition, 3000);
+</script>
+</html>

@@ -1,0 +1,27 @@
+14:19:59.100 [restartedMain] INFO  c.a.b.d.c.e.WelcomeLogoApplicationListener - [onApplicationEvent,53] - 
+
+ :: Dubbo Spring Boot (v0.2.0) : https://github.com/apache/incubator-dubbo-spring-boot-project
+ :: Dubbo (v2.6.2) : https://github.com/apache/incubator-dubbo
+ :: Google group : dev@dubbo.incubator.apache.org
+
+14:19:59.114 [restartedMain] INFO  c.a.b.d.c.e.OverrideDubboConfigApplicationListener - [onApplicationEvent,68] - Dubbo Config was overridden by externalized configuration {dubbo.application.name=duker, dubbo.registry.address=zookeeper://127.0.0.1:2181}
+14:19:59.319 [restartedMain] INFO  c.d.c.DukerApplication - [logStarting,50] - Starting DukerApplication on SC-201906251903 with PID 16584 (E:\peosonal\duker\target\classes started by Administrator in E:\peosonal\duker)
+14:19:59.320 [restartedMain] INFO  c.d.c.DukerApplication - [logStartupProfileInfo,648] - No active profile set, falling back to default profiles: default
+14:20:00.496 [restartedMain] INFO  c.a.d.c.s.c.a.DubboConfigBindingRegistrar - [registerDubboConfigBean,121] - The dubbo config bean definition [name : com.alibaba.dubbo.config.ApplicationConfig#0, class : com.alibaba.dubbo.config.ApplicationConfig] has been registered.
+14:20:00.498 [restartedMain] INFO  c.a.d.c.s.c.a.DubboConfigBindingRegistrar - [registerDubboConfigBindingBeanPostProcessor,145] - The BeanPostProcessor bean definition [com.alibaba.dubbo.config.spring.beans.factory.annotation.DubboConfigBindingBeanPostProcessor] for dubbo config bean [name : com.alibaba.dubbo.config.ApplicationConfig#0] has been registered.
+14:20:00.498 [restartedMain] INFO  c.a.d.c.s.c.a.DubboConfigBindingRegistrar - [registerDubboConfigBean,121] - The dubbo config bean definition [name : com.alibaba.dubbo.config.RegistryConfig#0, class : com.alibaba.dubbo.config.RegistryConfig] has been registered.
+14:20:00.499 [restartedMain] INFO  c.a.d.c.s.c.a.DubboConfigBindingRegistrar - [registerDubboConfigBindingBeanPostProcessor,145] - The BeanPostProcessor bean definition [com.alibaba.dubbo.config.spring.beans.factory.annotation.DubboConfigBindingBeanPostProcessor] for dubbo config bean [name : com.alibaba.dubbo.config.RegistryConfig#0] has been registered.
+14:20:01.962 [restartedMain] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-9026"]
+14:20:01.983 [restartedMain] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+14:20:01.984 [restartedMain] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.24]
+14:20:02.153 [restartedMain] INFO  o.a.c.c.C.[.[.[/duker] - [log,173] - Initializing Spring embedded WebApplicationContext
+14:20:03.382 [restartedMain] INFO  c.a.d.c.s.b.f.a.DubboConfigBindingBeanPostProcessor - [postProcessBeforeInitialization,85] - The properties of bean [name : com.alibaba.dubbo.config.ApplicationConfig#0] have been binding by prefix of configuration properties : dubbo.application
+14:20:03.390 [restartedMain] INFO  c.a.d.c.s.b.f.a.DubboConfigBindingBeanPostProcessor - [postProcessBeforeInitialization,85] - The properties of bean [name : com.alibaba.dubbo.config.RegistryConfig#0] have been binding by prefix of configuration properties : dubbo.registry
+14:20:03.469 [restartedMain] INFO  c.a.d.s.b.a.DruidDataSourceAutoConfigure - [dataSource,56] - Init DruidDataSource
+14:20:03.572 [restartedMain] INFO  c.a.d.p.DruidDataSource - [init,930] - {dataSource-1} inited
+14:20:04.388 [restartedMain] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Starting ProtocolHandler ["http-nio-9026"]
+14:20:04.435 [restartedMain] INFO  c.d.c.DukerApplication - [logStarted,59] - Started DukerApplication in 6.038 seconds (JVM running for 8.819)
+14:21:01.138 [http-nio-9026-exec-1] INFO  o.a.c.c.C.[.[.[/duker] - [log,173] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+14:21:01.231 [http-nio-9026-exec-1] INFO  c.d.c.c.DemoController - [createId,24] - *************** 生成ID ******************
+14:21:01.231 [http-nio-9026-exec-1] INFO  c.d.c.c.DemoController - [createId,25] - result=107066522462
+14:21:01.231 [http-nio-9026-exec-1] INFO  c.d.c.c.DemoController - [createId,26] - *************** 生成ID ******************

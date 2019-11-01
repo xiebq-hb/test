@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <link href="./laydate/theme/default/laydate.css" rel="stylesheet">
+    <style>
+        .time{
+            width: 400px;
+            height: 500px;
+            overflow: auto;
+        }
+    </style>
+</head>
+<body>
+
+<div class="time">
+    <input id="startTime" type="text">
+</div>
+
+<script type="text/javascript" src="./jquery/jquery-1.8.3.min.js" charset="UTF-8"></script>
+<script type="text/javascript" src="./laydate/laydate.js"></script>
+<script type="text/javascript">
+    //执行一个laydate实例
+    laydate.render({
+        elem: '#startTime',//指定元素
+        type: 'datetime',//选择年、月、日、时、分、秒
+        theme: '#1fbfdb'
+    });
+</script>
+</body>
+</html>

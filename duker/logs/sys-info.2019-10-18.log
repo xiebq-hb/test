@@ -1,0 +1,280 @@
+08:58:26.097 [main] INFO  c.a.b.d.c.e.WelcomeLogoApplicationListener - [onApplicationEvent,53] - 
+
+ :: Dubbo Spring Boot (v0.2.0) : https://github.com/apache/incubator-dubbo-spring-boot-project
+ :: Dubbo (v2.6.2) : https://github.com/apache/incubator-dubbo
+ :: Google group : dev@dubbo.incubator.apache.org
+
+08:58:26.163 [main] INFO  c.a.b.d.c.e.OverrideDubboConfigApplicationListener - [onApplicationEvent,68] - Dubbo Config was overridden by externalized configuration {}
+08:58:27.887 [main] INFO  c.d.c.DukerApplication - [logStarting,50] - Starting DukerApplication on SC-201906251903 with PID 26396 (E:\peosonal\duker\target\classes started by Administrator in E:\peosonal\duker)
+08:58:27.889 [main] INFO  c.d.c.DukerApplication - [logStartupProfileInfo,648] - No active profile set, falling back to default profiles: default
+08:58:45.606 [main] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-9026"]
+08:58:45.672 [main] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+08:58:45.672 [main] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.24]
+08:58:46.194 [main] INFO  o.a.c.c.C.[.[.[/duker] - [log,173] - Initializing Spring embedded WebApplicationContext
+08:58:56.202 [main] INFO  c.a.d.s.b.a.DruidDataSourceAutoConfigure - [dataSource,56] - Init DruidDataSource
+08:58:57.635 [main] INFO  c.a.d.p.DruidDataSource - [init,930] - {dataSource-1} inited
+08:59:08.065 [main] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Starting ProtocolHandler ["http-nio-9026"]
+08:59:08.233 [main] INFO  c.d.c.DukerApplication - [logStarted,59] - Started DukerApplication in 46.45 seconds (JVM running for 71.485)
+10:03:23.329 [main] INFO  c.a.b.d.c.e.WelcomeLogoApplicationListener - [onApplicationEvent,53] - 
+
+ :: Dubbo Spring Boot (v0.2.0) : https://github.com/apache/incubator-dubbo-spring-boot-project
+ :: Dubbo (v2.6.2) : https://github.com/apache/incubator-dubbo
+ :: Google group : dev@dubbo.incubator.apache.org
+
+10:03:23.351 [main] INFO  c.a.b.d.c.e.OverrideDubboConfigApplicationListener - [onApplicationEvent,68] - Dubbo Config was overridden by externalized configuration {}
+10:03:24.484 [main] INFO  c.d.c.DukerApplication - [logStarting,50] - Starting DukerApplication on SC-201906251903 with PID 73368 (E:\peosonal\duker\target\classes started by Administrator in E:\peosonal\duker)
+10:03:24.487 [main] INFO  c.d.c.DukerApplication - [logStartupProfileInfo,648] - No active profile set, falling back to default profiles: default
+10:03:38.576 [main] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-9026"]
+10:03:38.609 [main] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+10:03:38.610 [main] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.24]
+10:03:39.106 [main] INFO  o.a.c.c.C.[.[.[/duker] - [log,173] - Initializing Spring embedded WebApplicationContext
+10:03:40.183 [main] INFO  c.a.d.c.s.b.f.a.ReferenceAnnotationBeanPostProcessor - [destroy,251] - class com.alibaba.dubbo.config.spring.beans.factory.annotation.ReferenceAnnotationBeanPostProcessor was destroying!
+10:03:40.189 [main] INFO  o.a.c.c.StandardService - [log,173] - Stopping service [Tomcat]
+10:15:39.999 [main] INFO  c.a.b.d.c.e.WelcomeLogoApplicationListener - [onApplicationEvent,53] - 
+
+ :: Dubbo Spring Boot (v0.2.0) : https://github.com/apache/incubator-dubbo-spring-boot-project
+ :: Dubbo (v2.6.2) : https://github.com/apache/incubator-dubbo
+ :: Google group : dev@dubbo.incubator.apache.org
+
+10:15:40.014 [main] INFO  c.a.b.d.c.e.OverrideDubboConfigApplicationListener - [onApplicationEvent,68] - Dubbo Config was overridden by externalized configuration {}
+10:15:40.320 [main] INFO  c.d.c.DukerApplication - [logStarting,50] - Starting DukerApplication on SC-201906251903 with PID 7860 (E:\peosonal\duker\target\classes started by Administrator in E:\peosonal\duker)
+10:15:40.321 [main] INFO  c.d.c.DukerApplication - [logStartupProfileInfo,648] - No active profile set, falling back to default profiles: default
+10:15:45.264 [main] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-9026"]
+10:15:45.279 [main] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+10:15:45.279 [main] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.24]
+10:15:45.508 [main] INFO  o.a.c.c.C.[.[.[/duker] - [log,173] - Initializing Spring embedded WebApplicationContext
+10:15:45.942 [main] INFO  c.a.d.c.s.b.f.a.ReferenceAnnotationBeanPostProcessor - [destroy,251] - class com.alibaba.dubbo.config.spring.beans.factory.annotation.ReferenceAnnotationBeanPostProcessor was destroying!
+10:15:45.949 [main] INFO  o.a.c.c.StandardService - [log,173] - Stopping service [Tomcat]
+10:17:04.868 [main] INFO  c.a.b.d.c.e.WelcomeLogoApplicationListener - [onApplicationEvent,53] - 
+
+ :: Dubbo Spring Boot (v0.2.0) : https://github.com/apache/incubator-dubbo-spring-boot-project
+ :: Dubbo (v2.6.2) : https://github.com/apache/incubator-dubbo
+ :: Google group : dev@dubbo.incubator.apache.org
+
+10:17:04.881 [main] INFO  c.a.b.d.c.e.OverrideDubboConfigApplicationListener - [onApplicationEvent,68] - Dubbo Config was overridden by externalized configuration {}
+10:17:05.240 [main] INFO  c.d.c.DukerApplication - [logStarting,50] - Starting DukerApplication on SC-201906251903 with PID 87016 (E:\peosonal\duker\target\classes started by Administrator in E:\peosonal\duker)
+10:17:05.241 [main] INFO  c.d.c.DukerApplication - [logStartupProfileInfo,648] - No active profile set, falling back to default profiles: default
+10:17:10.059 [main] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-9026"]
+10:17:10.081 [main] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+10:17:10.083 [main] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.24]
+10:17:10.334 [main] INFO  o.a.c.c.C.[.[.[/duker] - [log,173] - Initializing Spring embedded WebApplicationContext
+10:17:10.866 [main] INFO  c.a.d.c.s.b.f.a.ReferenceAnnotationBeanPostProcessor - [destroy,251] - class com.alibaba.dubbo.config.spring.beans.factory.annotation.ReferenceAnnotationBeanPostProcessor was destroying!
+10:17:10.872 [main] INFO  o.a.c.c.StandardService - [log,173] - Stopping service [Tomcat]
+10:27:52.932 [main] INFO  c.a.b.d.c.e.WelcomeLogoApplicationListener - [onApplicationEvent,53] - 
+
+ :: Dubbo Spring Boot (v0.2.0) : https://github.com/apache/incubator-dubbo-spring-boot-project
+ :: Dubbo (v2.6.2) : https://github.com/apache/incubator-dubbo
+ :: Google group : dev@dubbo.incubator.apache.org
+
+10:27:52.946 [main] INFO  c.a.b.d.c.e.OverrideDubboConfigApplicationListener - [onApplicationEvent,68] - Dubbo Config was overridden by externalized configuration {}
+10:27:53.266 [main] INFO  c.d.c.DukerApplication - [logStarting,50] - Starting DukerApplication on SC-201906251903 with PID 4572 (E:\peosonal\duker\target\classes started by Administrator in E:\peosonal\duker)
+10:27:53.267 [main] INFO  c.d.c.DukerApplication - [logStartupProfileInfo,648] - No active profile set, falling back to default profiles: default
+10:27:58.123 [main] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-9026"]
+10:27:58.136 [main] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+10:27:58.137 [main] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.24]
+10:27:58.359 [main] INFO  o.a.c.c.C.[.[.[/duker] - [log,173] - Initializing Spring embedded WebApplicationContext
+10:27:59.038 [main] INFO  o.m.p.j.JmsPoolConnectionFactory - [setConnectionFactory,198] - Provided ConnectionFactory implementation is JMS 2.0+ capable.
+10:28:00.696 [main] INFO  c.a.d.s.b.a.DruidDataSourceAutoConfigure - [dataSource,56] - Init DruidDataSource
+10:28:01.914 [main] INFO  c.a.d.p.DruidDataSource - [init,930] - {dataSource-1} inited
+10:28:06.212 [main] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Starting ProtocolHandler ["http-nio-9026"]
+10:28:06.384 [main] INFO  c.d.c.DukerApplication - [logStarted,59] - Started DukerApplication in 14.479 seconds (JVM running for 26.6)
+10:30:05.072 [taskScheduler-1] INFO  c.d.c.t.UserDataSendTask - [send,45] - 用户数据包已成功发布（推送）, 时间=Fri Oct 18 10:30:05 CST 2019, 数据包=[{"title":"测试","userId":"2ew2d7675derr3","userLastlogin":1568184790000,"userName":"张玲","userPassword":"e10adc3949ba59abbe56e057f20f883e","userRegdate":1568184788000}]
+10:35:00.122 [taskScheduler-1] INFO  c.d.c.t.UserDataSendTask - [send,45] - 用户数据包已成功发布（推送）, 时间=Fri Oct 18 10:35:00 CST 2019, 数据包=[{"title":"测试","userId":"2ew2d7675derr3","userLastlogin":1568184790000,"userName":"张玲","userPassword":"e10adc3949ba59abbe56e057f20f883e","userRegdate":1568184788000}]
+10:40:00.148 [taskScheduler-2] INFO  c.d.c.t.UserDataSendTask - [send,45] - 用户数据包已成功发布（推送）, 时间=Fri Oct 18 10:40:00 CST 2019, 数据包=[{"title":"测试","userId":"2ew2d7675derr3","userLastlogin":1568184790000,"userName":"张玲","userPassword":"e10adc3949ba59abbe56e057f20f883e","userRegdate":1568184788000}]
+10:45:00.404 [taskScheduler-1] INFO  c.d.c.t.UserDataSendTask - [send,45] - 用户数据包已成功发布（推送）, 时间=Fri Oct 18 10:45:00 CST 2019, 数据包=[{"title":"测试","userId":"2ew2d7675derr3","userLastlogin":1568184790000,"userName":"张玲","userPassword":"e10adc3949ba59abbe56e057f20f883e","userRegdate":1568184788000}]
+10:50:00.162 [taskScheduler-3] INFO  c.d.c.t.UserDataSendTask - [send,45] - 用户数据包已成功发布（推送）, 时间=Fri Oct 18 10:50:00 CST 2019, 数据包=[{"title":"测试","userId":"2ew2d7675derr3","userLastlogin":1568184790000,"userName":"张玲","userPassword":"e10adc3949ba59abbe56e057f20f883e","userRegdate":1568184788000}]
+10:55:00.231 [taskScheduler-2] INFO  c.d.c.t.UserDataSendTask - [send,45] - 用户数据包已成功发布（推送）, 时间=Fri Oct 18 10:55:00 CST 2019, 数据包=[{"title":"测试","userId":"2ew2d7675derr3","userLastlogin":"2019-09-11 14:10:53","userName":"张玲","userPassword":"e10adc3949ba59abbe56e057f20f883e","userRegdate":"2019-09-11 14:08:53"}]
+11:00:00.263 [taskScheduler-1] INFO  c.d.c.t.UserDataSendTask - [send,45] - 用户数据包已成功发布（推送）, 时间=Fri Oct 18 11:00:00 CST 2019, 数据包=[{"title":"测试","userId":"2ew2d7675derr3","userLastlogin":"2019-09-11 14:10:53","userName":"张玲","userPassword":"e10adc3949ba59abbe56e057f20f883e","userRegdate":"2019-09-11 14:08:53"}]
+11:05:00.240 [taskScheduler-5] INFO  c.d.c.t.UserDataSendTask - [send,47] - 用户数据包已成功发布（推送）, 时间=2019-10-18 11:00:05, 数据包=[{"title":"测试","userId":"2ew2d7675derr3","userLastlogin":"2019-09-11 14:10:53","userName":"张玲","userPassword":"e10adc3949ba59abbe56e057f20f883e","userRegdate":"2019-09-11 14:08:53"}]
+11:10:00.042 [taskScheduler-7] INFO  c.d.c.t.UserDataSendTask - [send,43] - 用户数据包已成功发布（推送）, 时间=2019-10-18 11:00:10, 数据包=[{"title":"测试","userId":"2ew2d7675derr3","userLastlogin":"2019-09-11 14:10:53","userName":"张玲","userPassword":"e10adc3949ba59abbe56e057f20f883e","userRegdate":"2019-09-11 14:08:53"}]
+11:15:00.098 [taskScheduler-7] INFO  c.d.c.t.UserDataSendTask - [send,43] - 用户数据包已成功发布（推送）, 时间=2019-10-18 11:00:15, 数据包=[{"title":"测试","userId":"2ew2d7675derr3","userLastlogin":"2019-09-11 14:10:53","userName":"张玲","userPassword":"e10adc3949ba59abbe56e057f20f883e","userRegdate":"2019-09-11 14:08:53"}]
+11:20:00.058 [taskScheduler-7] INFO  c.d.c.t.UserDataSendTask - [send,43] - 用户数据包已成功发布（推送）, 时间=2019-10-18 11:00:20, 数据包=[{"title":"测试","userId":"2ew2d7675derr3","userLastlogin":"2019-09-11 14:10:53","userName":"张玲","userPassword":"e10adc3949ba59abbe56e057f20f883e","userRegdate":"2019-09-11 14:08:53"}]
+11:25:00.049 [taskScheduler-7] INFO  c.d.c.t.UserDataSendTask - [send,43] - 用户数据包已成功发布（推送）, 时间=2019-10-18 11:00:25, 数据包=[{"title":"测试","userId":"2ew2d7675derr3","userLastlogin":"2019-09-11 14:10:53","userName":"张玲","userPassword":"e10adc3949ba59abbe56e057f20f883e","userRegdate":"2019-09-11 14:08:53"}]
+11:30:00.049 [taskScheduler-7] INFO  c.d.c.t.UserDataSendTask - [send,43] - 用户数据包已成功发布（推送）, 时间=2019-10-18 11:00:30, 数据包=[{"title":"测试","userId":"2ew2d7675derr3","userLastlogin":"2019-09-11 14:10:53","userName":"张玲","userPassword":"e10adc3949ba59abbe56e057f20f883e","userRegdate":"2019-09-11 14:08:53"}]
+13:49:17.397 [main] INFO  c.a.b.d.c.e.WelcomeLogoApplicationListener - [onApplicationEvent,53] - 
+
+ :: Dubbo Spring Boot (v0.2.0) : https://github.com/apache/incubator-dubbo-spring-boot-project
+ :: Dubbo (v2.6.2) : https://github.com/apache/incubator-dubbo
+ :: Google group : dev@dubbo.incubator.apache.org
+
+13:49:17.412 [main] INFO  c.a.b.d.c.e.OverrideDubboConfigApplicationListener - [onApplicationEvent,68] - Dubbo Config was overridden by externalized configuration {}
+13:49:18.232 [main] INFO  c.d.c.DukerApplication - [logStarting,50] - Starting DukerApplication on SC-201906251903 with PID 7944 (E:\peosonal\duker\target\classes started by Administrator in E:\peosonal\duker)
+13:49:18.234 [main] INFO  c.d.c.DukerApplication - [logStartupProfileInfo,648] - No active profile set, falling back to default profiles: default
+13:49:25.489 [main] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-9026"]
+13:49:25.504 [main] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+13:49:25.504 [main] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.24]
+13:49:25.733 [main] INFO  o.a.c.c.C.[.[.[/duker] - [log,173] - Initializing Spring embedded WebApplicationContext
+13:49:26.314 [main] INFO  o.m.p.j.JmsPoolConnectionFactory - [setConnectionFactory,198] - Provided ConnectionFactory implementation is JMS 2.0+ capable.
+13:49:29.238 [main] INFO  c.a.d.s.b.a.DruidDataSourceAutoConfigure - [dataSource,56] - Init DruidDataSource
+13:49:30.045 [main] INFO  c.a.d.p.DruidDataSource - [init,930] - {dataSource-1} inited
+13:49:35.723 [main] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Starting ProtocolHandler ["http-nio-9026"]
+13:49:35.884 [main] INFO  c.d.c.DukerApplication - [logStarted,59] - Started DukerApplication in 20.105 seconds (JVM running for 32.066)
+13:50:02.757 [taskScheduler-1] INFO  c.d.c.t.UserDataSendTask - [send,43] - 用户数据包已成功发布（推送）, 时间=2019-10-18 13:02:50, 数据包=[{"title":"测试","userId":"2ew2d7675derr3","userLastlogin":"2019-09-11 14:10:53","userName":"张玲","userPassword":"e10adc3949ba59abbe56e057f20f883e","userRegdate":"2019-09-11 14:08:53"}]
+13:55:00.101 [taskScheduler-1] INFO  c.d.c.t.UserDataSendTask - [send,43] - 用户数据包已成功发布（推送）, 时间=2019-10-18 13:00:55, 数据包=[{"title":"测试","userId":"2ew2d7675derr3","userLastlogin":"2019-09-11 14:10:53","userName":"张玲","userPassword":"e10adc3949ba59abbe56e057f20f883e","userRegdate":"2019-09-11 14:08:53"}]
+14:00:00.051 [taskScheduler-2] INFO  c.d.c.t.UserDataSendTask - [send,43] - 用户数据包已成功发布（推送）, 时间=2019-10-18 14:00:00, 数据包=[{"title":"测试","userId":"2ew2d7675derr3","userLastlogin":"2019-09-11 14:10:53","userName":"张玲","userPassword":"e10adc3949ba59abbe56e057f20f883e","userRegdate":"2019-09-11 14:08:53"}]
+14:05:00.059 [taskScheduler-1] INFO  c.d.c.t.UserDataSendTask - [send,43] - 用户数据包已成功发布（推送）, 时间=2019-10-18 14:00:05, 数据包=[{"title":"测试","userId":"2ew2d7675derr3","userLastlogin":"2019-09-11 14:10:53","userName":"张玲","userPassword":"e10adc3949ba59abbe56e057f20f883e","userRegdate":"2019-09-11 14:08:53"}]
+14:10:00.053 [taskScheduler-3] INFO  c.d.c.t.UserDataSendTask - [send,43] - 用户数据包已成功发布（推送）, 时间=2019-10-18 14:00:10, 数据包=[{"title":"测试","userId":"2ew2d7675derr3","userLastlogin":"2019-09-11 14:10:53","userName":"张玲","userPassword":"e10adc3949ba59abbe56e057f20f883e","userRegdate":"2019-09-11 14:08:53"}]
+14:15:00.064 [taskScheduler-2] INFO  c.d.c.t.UserDataSendTask - [send,43] - 用户数据包已成功发布（推送）, 时间=2019-10-18 14:00:15, 数据包=[{"title":"测试","userId":"2ew2d7675derr3","userLastlogin":"2019-09-11 14:10:53","userName":"张玲","userPassword":"e10adc3949ba59abbe56e057f20f883e","userRegdate":"2019-09-11 14:08:53"}]
+14:20:00.047 [taskScheduler-4] INFO  c.d.c.t.UserDataSendTask - [send,43] - 用户数据包已成功发布（推送）, 时间=2019-10-18 14:00:20, 数据包=[{"title":"测试","userId":"2ew2d7675derr3","userLastlogin":"2019-09-11 14:10:53","userName":"张玲","userPassword":"e10adc3949ba59abbe56e057f20f883e","userRegdate":"2019-09-11 14:08:53"}]
+14:25:00.164 [taskScheduler-1] INFO  c.d.c.t.UserDataSendTask - [send,43] - 用户数据包已成功发布（推送）, 时间=2019-10-18 14:00:25, 数据包=[{"title":"测试","userId":"2ew2d7675derr3","userLastlogin":"2019-09-11 14:10:53","userName":"张玲","userPassword":"e10adc3949ba59abbe56e057f20f883e","userRegdate":"2019-09-11 14:08:53"}]
+14:30:00.052 [taskScheduler-5] INFO  c.d.c.t.UserDataSendTask - [send,43] - 用户数据包已成功发布（推送）, 时间=2019-10-18 14:00:30, 数据包=[{"title":"测试","userId":"2ew2d7675derr3","userLastlogin":"2019-09-11 14:10:53","userName":"张玲","userPassword":"e10adc3949ba59abbe56e057f20f883e","userRegdate":"2019-09-11 14:08:53"}]
+14:35:00.150 [taskScheduler-5] INFO  c.d.c.t.UserDataSendTask - [send,43] - 用户数据包已成功发布（推送）, 时间=2019-10-18 14:00:35, 数据包=[{"title":"测试","userId":"2ew2d7675derr3","userLastlogin":"2019-09-11 14:10:53","userName":"张玲","userPassword":"e10adc3949ba59abbe56e057f20f883e","userRegdate":"2019-09-11 14:08:53"}]
+14:40:00.110 [taskScheduler-5] INFO  c.d.c.t.UserDataSendTask - [send,43] - 用户数据包已成功发布（推送）, 时间=2019-10-18 14:00:40, 数据包=[{"title":"测试","userId":"2ew2d7675derr3","userLastlogin":"2019-09-11 14:10:53","userName":"张玲","userPassword":"e10adc3949ba59abbe56e057f20f883e","userRegdate":"2019-09-11 14:08:53"}]
+14:45:00.042 [taskScheduler-5] INFO  c.d.c.t.UserDataSendTask - [send,43] - 用户数据包已成功发布（推送）, 时间=2019-10-18 14:00:45, 数据包=[{"title":"测试","userId":"2ew2d7675derr3","userLastlogin":"2019-09-11 14:10:53","userName":"张玲","userPassword":"e10adc3949ba59abbe56e057f20f883e","userRegdate":"2019-09-11 14:08:53"}]
+14:50:00.243 [taskScheduler-5] INFO  c.d.c.t.UserDataSendTask - [send,43] - 用户数据包已成功发布（推送）, 时间=2019-10-18 14:00:50, 数据包=[{"title":"测试","userId":"2ew2d7675derr3","userLastlogin":"2019-09-11 14:10:53","userName":"张玲","userPassword":"e10adc3949ba59abbe56e057f20f883e","userRegdate":"2019-09-11 14:08:53"}]
+14:55:00.300 [taskScheduler-5] INFO  c.d.c.t.UserDataSendTask - [send,43] - 用户数据包已成功发布（推送）, 时间=2019-10-18 14:00:55, 数据包=[{"title":"测试","userId":"2ew2d7675derr3","userLastlogin":"2019-09-11 14:10:53","userName":"张玲","userPassword":"e10adc3949ba59abbe56e057f20f883e","userRegdate":"2019-09-11 14:08:53"}]
+15:00:00.079 [taskScheduler-5] INFO  c.d.c.t.UserDataSendTask - [send,43] - 用户数据包已成功发布（推送）, 时间=2019-10-18 15:00:00, 数据包=[{"title":"测试","userId":"2ew2d7675derr3","userLastlogin":"2019-09-11 14:10:53","userName":"张玲","userPassword":"e10adc3949ba59abbe56e057f20f883e","userRegdate":"2019-09-11 14:08:53"}]
+15:05:00.097 [taskScheduler-5] INFO  c.d.c.t.UserDataSendTask - [send,43] - 用户数据包已成功发布（推送）, 时间=2019-10-18 15:00:05, 数据包=[{"title":"测试","userId":"2ew2d7675derr3","userLastlogin":"2019-09-11 14:10:53","userName":"张玲","userPassword":"e10adc3949ba59abbe56e057f20f883e","userRegdate":"2019-09-11 14:08:53"}]
+15:10:00.103 [taskScheduler-5] INFO  c.d.c.t.UserDataSendTask - [send,43] - 用户数据包已成功发布（推送）, 时间=2019-10-18 15:00:10, 数据包=[{"title":"测试","userId":"2ew2d7675derr3","userLastlogin":"2019-09-11 14:10:53","userName":"张玲","userPassword":"e10adc3949ba59abbe56e057f20f883e","userRegdate":"2019-09-11 14:08:53"}]
+15:15:00.126 [taskScheduler-5] INFO  c.d.c.t.UserDataSendTask - [send,43] - 用户数据包已成功发布（推送）, 时间=2019-10-18 15:00:15, 数据包=[{"title":"测试","userId":"2ew2d7675derr3","userLastlogin":"2019-09-11 14:10:53","userName":"张玲","userPassword":"e10adc3949ba59abbe56e057f20f883e","userRegdate":"2019-09-11 14:08:53"}]
+15:20:00.485 [taskScheduler-5] INFO  c.d.c.t.UserDataSendTask - [send,43] - 用户数据包已成功发布（推送）, 时间=2019-10-18 15:00:20, 数据包=[{"title":"测试","userId":"2ew2d7675derr3","userLastlogin":"2019-09-11 14:10:53","userName":"张玲","userPassword":"e10adc3949ba59abbe56e057f20f883e","userRegdate":"2019-09-11 14:08:53"}]
+15:32:04.061 [main] INFO  c.a.b.d.c.e.WelcomeLogoApplicationListener - [onApplicationEvent,53] - 
+
+ :: Dubbo Spring Boot (v0.2.0) : https://github.com/apache/incubator-dubbo-spring-boot-project
+ :: Dubbo (v2.6.2) : https://github.com/apache/incubator-dubbo
+ :: Google group : dev@dubbo.incubator.apache.org
+
+15:32:04.078 [main] INFO  c.a.b.d.c.e.OverrideDubboConfigApplicationListener - [onApplicationEvent,68] - Dubbo Config was overridden by externalized configuration {}
+15:32:04.593 [main] INFO  c.d.c.DukerApplication - [logStarting,50] - Starting DukerApplication on SC-201906251903 with PID 112020 (E:\peosonal\duker\target\classes started by Administrator in E:\peosonal\duker)
+15:32:04.594 [main] INFO  c.d.c.DukerApplication - [logStartupProfileInfo,648] - No active profile set, falling back to default profiles: default
+15:32:15.905 [main] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-9026"]
+15:32:15.935 [main] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+15:32:15.936 [main] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.24]
+15:32:16.323 [main] INFO  o.a.c.c.C.[.[.[/duker] - [log,173] - Initializing Spring embedded WebApplicationContext
+15:32:17.032 [main] INFO  o.m.p.j.JmsPoolConnectionFactory - [setConnectionFactory,198] - Provided ConnectionFactory implementation is JMS 2.0+ capable.
+15:32:19.514 [main] INFO  c.a.d.s.b.a.DruidDataSourceAutoConfigure - [dataSource,56] - Init DruidDataSource
+15:32:20.906 [main] INFO  c.a.d.p.DruidDataSource - [init,930] - {dataSource-1} inited
+15:32:26.245 [main] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Starting ProtocolHandler ["http-nio-9026"]
+15:32:26.536 [main] INFO  c.d.c.DukerApplication - [logStarted,59] - Started DukerApplication in 24.142 seconds (JVM running for 45.987)
+15:33:03.071 [http-nio-9026-exec-2] INFO  o.a.c.c.C.[.[.[/duker] - [log,173] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+15:33:31.044 [http-nio-9026-exec-4] INFO  c.d.c.c.DemoController - [testAnnotation,32] - *************** 测试自定义注解 ******************
+15:34:08.299 [http-nio-9026-exec-9] INFO  c.d.c.c.DemoController - [testAnnotation,32] - *************** 测试自定义注解 ******************
+15:35:01.470 [taskScheduler-1] INFO  c.d.c.t.UserDataSendTask - [send,43] - 用户数据包已成功发布（推送）, 时间=2019-10-18 15:01:35, 数据包=[{"title":"测试","userId":"2ew2d7675derr3","userLastlogin":"2019-09-11 14:10:53","userName":"张玲","userPassword":"e10adc3949ba59abbe56e057f20f883e","userRegdate":"2019-09-11 14:08:53"}]
+15:36:49.357 [http-nio-9026-exec-1] INFO  c.d.c.c.DemoController - [testAnnotation,32] - *************** 测试自定义注解 ******************
+15:37:02.296 [http-nio-9026-exec-6] INFO  c.d.c.c.DemoController - [testAnnotation,32] - *************** 测试自定义注解 ******************
+15:37:15.238 [http-nio-9026-exec-8] INFO  c.d.c.c.DemoController - [testAnnotation,32] - *************** 测试自定义注解 ******************
+15:37:28.138 [http-nio-9026-exec-7] INFO  c.d.c.c.DemoController - [testAnnotation,32] - *************** 测试自定义注解 ******************
+15:39:16.666 [http-nio-9026-exec-10] INFO  c.d.c.c.DemoController - [testAnnotation,32] - *************** 测试自定义注解 ******************
+15:39:29.611 [http-nio-9026-exec-5] INFO  c.d.c.c.DemoController - [testAnnotation,32] - *************** 测试自定义注解 ******************
+15:41:02.412 [main] INFO  c.a.b.d.c.e.WelcomeLogoApplicationListener - [onApplicationEvent,53] - 
+
+ :: Dubbo Spring Boot (v0.2.0) : https://github.com/apache/incubator-dubbo-spring-boot-project
+ :: Dubbo (v2.6.2) : https://github.com/apache/incubator-dubbo
+ :: Google group : dev@dubbo.incubator.apache.org
+
+15:41:02.425 [main] INFO  c.a.b.d.c.e.OverrideDubboConfigApplicationListener - [onApplicationEvent,68] - Dubbo Config was overridden by externalized configuration {}
+15:41:02.825 [main] INFO  c.d.c.DukerApplication - [logStarting,50] - Starting DukerApplication on SC-201906251903 with PID 11032 (E:\peosonal\duker\target\classes started by Administrator in E:\peosonal\duker)
+15:41:02.827 [main] INFO  c.d.c.DukerApplication - [logStartupProfileInfo,648] - No active profile set, falling back to default profiles: default
+15:41:10.465 [main] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-9026"]
+15:41:10.483 [main] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+15:41:10.483 [main] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.24]
+15:41:10.727 [main] INFO  o.a.c.c.C.[.[.[/duker] - [log,173] - Initializing Spring embedded WebApplicationContext
+15:41:11.450 [main] INFO  o.m.p.j.JmsPoolConnectionFactory - [setConnectionFactory,198] - Provided ConnectionFactory implementation is JMS 2.0+ capable.
+15:41:13.355 [main] INFO  c.a.d.s.b.a.DruidDataSourceAutoConfigure - [dataSource,56] - Init DruidDataSource
+15:41:14.067 [main] INFO  c.a.d.p.DruidDataSource - [init,930] - {dataSource-1} inited
+15:41:17.741 [main] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Starting ProtocolHandler ["http-nio-9026"]
+15:41:17.809 [main] INFO  c.d.c.DukerApplication - [logStarted,59] - Started DukerApplication in 16.617 seconds (JVM running for 29.709)
+15:41:25.264 [http-nio-9026-exec-3] INFO  o.a.c.c.C.[.[.[/duker] - [log,173] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+15:41:40.712 [http-nio-9026-exec-3] INFO  c.d.c.i.SecurityInterceptor - [preHandle,34] - /duker/api/v1/annotation 验证通过
+15:42:24.705 [http-nio-9026-exec-1] INFO  c.d.c.i.SecurityInterceptor - [preHandle,34] - /duker/api/v1/annotation 验证通过
+15:42:24.826 [http-nio-9026-exec-1] INFO  c.d.c.c.DemoController - [testAnnotation,32] - *************** 测试自定义注解 ******************
+15:43:26.680 [http-nio-9026-exec-2] INFO  c.d.c.i.SecurityInterceptor - [preHandle,37] - /duker/api/v1/annotation 验证不通过
+15:45:03.899 [taskScheduler-1] INFO  c.d.c.t.UserDataSendTask - [send,43] - 用户数据包已成功发布（推送）, 时间=2019-10-18 15:03:45, 数据包=[{"title":"测试","userId":"2ew2d7675derr3","userLastlogin":"2019-09-11 14:10:53","userName":"张玲","userPassword":"e10adc3949ba59abbe56e057f20f883e","userRegdate":"2019-09-11 14:08:53"}]
+15:50:00.067 [taskScheduler-1] INFO  c.d.c.t.UserDataSendTask - [send,43] - 用户数据包已成功发布（推送）, 时间=2019-10-18 15:00:50, 数据包=[{"title":"测试","userId":"2ew2d7675derr3","userLastlogin":"2019-09-11 14:10:53","userName":"张玲","userPassword":"e10adc3949ba59abbe56e057f20f883e","userRegdate":"2019-09-11 14:08:53"}]
+15:55:00.064 [taskScheduler-2] INFO  c.d.c.t.UserDataSendTask - [send,43] - 用户数据包已成功发布（推送）, 时间=2019-10-18 15:00:55, 数据包=[{"title":"测试","userId":"2ew2d7675derr3","userLastlogin":"2019-09-11 14:10:53","userName":"张玲","userPassword":"e10adc3949ba59abbe56e057f20f883e","userRegdate":"2019-09-11 14:08:53"}]
+15:57:53.756 [main] INFO  c.b.d.s.DukerServerApplication - [logStarting,50] - Starting DukerServerApplication on SC-201906251903 with PID 70484 (E:\peosonal\zheng\zheng-springboot-demo\duker-server\target\classes started by Administrator in E:\peosonal\duker)
+15:57:53.763 [main] INFO  c.b.d.s.DukerServerApplication - [logStartupProfileInfo,648] - No active profile set, falling back to default profiles: default
+15:58:05.893 [main] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-9528"]
+15:58:05.912 [main] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+15:58:05.912 [main] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.26]
+15:58:06.132 [main] INFO  o.a.c.c.C.[.[.[/duker-server] - [log,173] - Initializing Spring embedded WebApplicationContext
+15:58:06.550 [main] INFO  c.a.d.s.b.a.DruidDataSourceAutoConfigure - [dataSource,56] - Init DruidDataSource
+15:58:07.353 [main] INFO  c.a.d.p.DruidDataSource - [init,930] - {dataSource-1} inited
+15:58:09.692 [main] INFO  o.m.p.j.JmsPoolConnectionFactory - [setConnectionFactory,198] - Provided ConnectionFactory implementation is JMS 2.0+ capable.
+15:58:10.074 [main] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Starting ProtocolHandler ["http-nio-9528"]
+15:58:10.130 [main] INFO  c.b.d.s.DukerServerApplication - [logStarted,59] - Started DukerServerApplication in 18.551 seconds (JVM running for 21.439)
+15:59:34.717 [main] INFO  c.b.d.s.DukerServerApplication - [logStarting,50] - Starting DukerServerApplication on SC-201906251903 with PID 20820 (E:\peosonal\zheng\zheng-springboot-demo\duker-server\target\classes started by Administrator in E:\peosonal\duker)
+15:59:34.727 [main] INFO  c.b.d.s.DukerServerApplication - [logStartupProfileInfo,648] - No active profile set, falling back to default profiles: default
+15:59:43.400 [main] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-9528"]
+15:59:43.431 [main] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+15:59:43.432 [main] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.26]
+15:59:44.709 [main] INFO  o.a.c.c.C.[.[.[/duker-server] - [log,173] - Initializing Spring embedded WebApplicationContext
+15:59:48.348 [main] INFO  c.a.d.s.b.a.DruidDataSourceAutoConfigure - [dataSource,56] - Init DruidDataSource
+15:59:51.048 [main] INFO  c.a.d.p.DruidDataSource - [init,930] - {dataSource-1} inited
+16:00:00.068 [taskScheduler-1] INFO  c.d.c.t.UserDataSendTask - [send,43] - 用户数据包已成功发布（推送）, 时间=2019-10-18 16:00:00, 数据包=[{"title":"测试","userId":"2ew2d7675derr3","userLastlogin":"2019-09-11 14:10:53","userName":"张玲","userPassword":"e10adc3949ba59abbe56e057f20f883e","userRegdate":"2019-09-11 14:08:53"}]
+16:00:02.111 [main] INFO  o.m.p.j.JmsPoolConnectionFactory - [setConnectionFactory,198] - Provided ConnectionFactory implementation is JMS 2.0+ capable.
+16:00:02.613 [main] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Starting ProtocolHandler ["http-nio-9528"]
+16:00:02.751 [main] INFO  c.b.d.s.DukerServerApplication - [logStarted,59] - Started DukerServerApplication in 34.503 seconds (JVM running for 53.396)
+16:00:39.344 [http-nio-9528-exec-1] INFO  o.a.c.c.C.[.[.[/duker-server] - [log,173] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+16:05:00.045 [taskScheduler-3] INFO  c.d.c.t.UserDataSendTask - [send,43] - 用户数据包已成功发布（推送）, 时间=2019-10-18 16:00:05, 数据包=[{"title":"测试","userId":"2ew2d7675derr3","userLastlogin":"2019-09-11 14:10:53","userName":"张玲","userPassword":"e10adc3949ba59abbe56e057f20f883e","userRegdate":"2019-09-11 14:08:53"}]
+16:08:09.198 [main] INFO  c.b.d.s.DukerServerApplication - [logStarting,50] - Starting DukerServerApplication on SC-201906251903 with PID 35452 (E:\peosonal\zheng\zheng-springboot-demo\duker-server\target\classes started by Administrator in E:\peosonal\duker)
+16:08:09.211 [main] INFO  c.b.d.s.DukerServerApplication - [logStartupProfileInfo,648] - No active profile set, falling back to default profiles: default
+16:08:14.732 [main] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-9528"]
+16:08:14.750 [main] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+16:08:14.750 [main] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.26]
+16:08:15.194 [main] INFO  o.a.c.c.C.[.[.[/duker-server] - [log,173] - Initializing Spring embedded WebApplicationContext
+16:08:15.694 [main] INFO  o.m.p.j.JmsPoolConnectionFactory - [setConnectionFactory,198] - Provided ConnectionFactory implementation is JMS 2.0+ capable.
+16:08:16.124 [main] INFO  c.a.d.s.b.a.DruidDataSourceAutoConfigure - [dataSource,56] - Init DruidDataSource
+16:08:17.098 [main] INFO  c.a.d.p.DruidDataSource - [init,930] - {dataSource-1} inited
+16:08:20.372 [main] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Starting ProtocolHandler ["http-nio-9528"]
+16:08:20.509 [main] INFO  c.b.d.s.DukerServerApplication - [logStarted,59] - Started DukerServerApplication in 14.228 seconds (JVM running for 26.916)
+16:10:00.435 [taskScheduler-2] INFO  c.d.c.t.UserDataSendTask - [send,43] - 用户数据包已成功发布（推送）, 时间=2019-10-18 16:00:10, 数据包=[{"title":"测试","userId":"2ew2d7675derr3","userLastlogin":"2019-09-11 14:10:53","userName":"张玲","userPassword":"e10adc3949ba59abbe56e057f20f883e","userRegdate":"2019-09-11 14:08:53"}]
+16:13:15.003 [main] INFO  c.b.d.s.DukerServerApplication - [logStarting,50] - Starting DukerServerApplication on SC-201906251903 with PID 9008 (E:\peosonal\zheng\zheng-springboot-demo\duker-server\target\classes started by Administrator in E:\peosonal\duker)
+16:13:15.015 [main] INFO  c.b.d.s.DukerServerApplication - [logStartupProfileInfo,648] - No active profile set, falling back to default profiles: default
+16:13:20.731 [main] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-9528"]
+16:13:20.749 [main] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+16:13:20.749 [main] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.26]
+16:13:21.198 [main] INFO  o.a.c.c.C.[.[.[/duker-server] - [log,173] - Initializing Spring embedded WebApplicationContext
+16:13:21.792 [main] INFO  o.m.p.j.JmsPoolConnectionFactory - [setConnectionFactory,198] - Provided ConnectionFactory implementation is JMS 2.0+ capable.
+16:13:22.192 [main] INFO  c.a.d.s.b.a.DruidDataSourceAutoConfigure - [dataSource,56] - Init DruidDataSource
+16:13:23.254 [main] INFO  c.a.d.p.DruidDataSource - [init,930] - {dataSource-1} inited
+16:13:26.644 [main] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Starting ProtocolHandler ["http-nio-9528"]
+16:13:26.764 [main] INFO  c.b.d.s.DukerServerApplication - [logStarted,59] - Started DukerServerApplication in 14.58 seconds (JVM running for 27.178)
+16:15:00.050 [taskScheduler-4] INFO  c.d.c.t.UserDataSendTask - [send,43] - 用户数据包已成功发布（推送）, 时间=2019-10-18 16:00:15, 数据包=[{"title":"测试","userId":"2ew2d7675derr3","userLastlogin":"2019-09-11 14:10:53","userName":"张玲","userPassword":"e10adc3949ba59abbe56e057f20f883e","userRegdate":"2019-09-11 14:08:53"}]
+16:15:31.129 [main] INFO  c.b.d.s.DukerServerApplication - [logStarting,50] - Starting DukerServerApplication on SC-201906251903 with PID 34072 (E:\peosonal\zheng\zheng-springboot-demo\duker-server\target\classes started by Administrator in E:\peosonal\duker)
+16:15:31.141 [main] INFO  c.b.d.s.DukerServerApplication - [logStartupProfileInfo,648] - No active profile set, falling back to default profiles: default
+16:15:36.807 [main] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-9528"]
+16:15:36.822 [main] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+16:15:36.823 [main] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.26]
+16:15:37.350 [main] INFO  o.a.c.c.C.[.[.[/duker-server] - [log,173] - Initializing Spring embedded WebApplicationContext
+16:15:37.834 [main] INFO  o.m.p.j.JmsPoolConnectionFactory - [setConnectionFactory,198] - Provided ConnectionFactory implementation is JMS 2.0+ capable.
+16:15:38.264 [main] INFO  c.a.d.s.b.a.DruidDataSourceAutoConfigure - [dataSource,56] - Init DruidDataSource
+16:15:39.820 [main] INFO  c.a.d.p.DruidDataSource - [init,930] - {dataSource-1} inited
+16:15:46.104 [main] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Starting ProtocolHandler ["http-nio-9528"]
+16:15:52.509 [main] INFO  c.b.d.s.DukerServerApplication - [logStarted,59] - Started DukerServerApplication in 24.467 seconds (JVM running for 37.508)
+16:20:00.074 [taskScheduler-1] INFO  c.d.c.t.UserDataSendTask - [send,43] - 用户数据包已成功发布（推送）, 时间=2019-10-18 16:00:20, 数据包=[{"title":"测试","userId":"2ew2d7675derr3","userLastlogin":"2019-09-11 14:10:53","userName":"张玲","userPassword":"e10adc3949ba59abbe56e057f20f883e","userRegdate":"2019-09-11 14:08:53"}]
+16:25:00.050 [taskScheduler-5] INFO  c.d.c.t.UserDataSendTask - [send,43] - 用户数据包已成功发布（推送）, 时间=2019-10-18 16:00:25, 数据包=[{"title":"测试","userId":"2ew2d7675derr3","userLastlogin":"2019-09-11 14:10:53","userName":"张玲","userPassword":"e10adc3949ba59abbe56e057f20f883e","userRegdate":"2019-09-11 14:08:53"}]
+16:30:00.117 [taskScheduler-3] INFO  c.d.c.t.UserDataSendTask - [send,43] - 用户数据包已成功发布（推送）, 时间=2019-10-18 16:00:30, 数据包=[{"title":"测试","userId":"2ew2d7675derr3","userLastlogin":"2019-09-11 14:10:53","userName":"张玲","userPassword":"e10adc3949ba59abbe56e057f20f883e","userRegdate":"2019-09-11 14:08:53"}]
+16:35:00.052 [taskScheduler-3] INFO  c.d.c.t.UserDataSendTask - [send,43] - 用户数据包已成功发布（推送）, 时间=2019-10-18 16:00:35, 数据包=[{"title":"测试","userId":"2ew2d7675derr3","userLastlogin":"2019-09-11 14:10:53","userName":"张玲","userPassword":"e10adc3949ba59abbe56e057f20f883e","userRegdate":"2019-09-11 14:08:53"}]
+16:40:00.095 [taskScheduler-3] INFO  c.d.c.t.UserDataSendTask - [send,43] - 用户数据包已成功发布（推送）, 时间=2019-10-18 16:00:40, 数据包=[{"title":"测试","userId":"2ew2d7675derr3","userLastlogin":"2019-09-11 14:10:53","userName":"张玲","userPassword":"e10adc3949ba59abbe56e057f20f883e","userRegdate":"2019-09-11 14:08:53"}]
+16:45:00.182 [taskScheduler-3] INFO  c.d.c.t.UserDataSendTask - [send,43] - 用户数据包已成功发布（推送）, 时间=2019-10-18 16:00:45, 数据包=[{"title":"测试","userId":"2ew2d7675derr3","userLastlogin":"2019-09-11 14:10:53","userName":"张玲","userPassword":"e10adc3949ba59abbe56e057f20f883e","userRegdate":"2019-09-11 14:08:53"}]
+17:18:32.445 [main] INFO  c.b.d.s.DukerServerApplication - [logStarting,50] - Starting DukerServerApplication on SC-201906251903 with PID 99124 (E:\peosonal\zheng\zheng-springboot-demo\duker-server\target\classes started by Administrator in E:\peosonal\duker)
+17:18:32.515 [main] INFO  c.b.d.s.DukerServerApplication - [logStartupProfileInfo,648] - No active profile set, falling back to default profiles: default
+17:18:43.293 [main] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-9528"]
+17:18:43.307 [main] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+17:18:43.308 [main] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.26]
+17:18:43.561 [main] INFO  o.a.c.c.C.[.[.[/duker-server] - [log,173] - Initializing Spring embedded WebApplicationContext
+17:18:43.921 [main] INFO  o.m.p.j.JmsPoolConnectionFactory - [setConnectionFactory,198] - Provided ConnectionFactory implementation is JMS 2.0+ capable.
+17:18:45.198 [main] INFO  c.a.d.s.b.a.DruidDataSourceAutoConfigure - [dataSource,56] - Init DruidDataSource
+17:18:45.943 [main] INFO  c.a.d.p.DruidDataSource - [init,930] - {dataSource-1} inited
+17:18:52.409 [main] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Starting ProtocolHandler ["http-nio-9528"]
+17:18:52.511 [main] INFO  c.b.d.s.DukerServerApplication - [logStarted,59] - Started DukerServerApplication in 23.538 seconds (JVM running for 36.311)
+17:19:47.846 [main] INFO  c.a.b.d.c.e.WelcomeLogoApplicationListener - [onApplicationEvent,53] - 
+
+ :: Dubbo Spring Boot (v0.2.0) : https://github.com/apache/incubator-dubbo-spring-boot-project
+ :: Dubbo (v2.6.2) : https://github.com/apache/incubator-dubbo
+ :: Google group : dev@dubbo.incubator.apache.org
+
+17:19:47.867 [main] INFO  c.a.b.d.c.e.OverrideDubboConfigApplicationListener - [onApplicationEvent,68] - Dubbo Config was overridden by externalized configuration {}
+17:19:49.145 [main] INFO  c.d.c.DukerApplication - [logStarting,50] - Starting DukerApplication on SC-201906251903 with PID 79284 (E:\peosonal\duker\target\classes started by Administrator in E:\peosonal\duker)
+17:19:49.146 [main] INFO  c.d.c.DukerApplication - [logStartupProfileInfo,648] - No active profile set, falling back to default profiles: default
+17:19:57.293 [main] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-9026"]
+17:19:57.307 [main] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+17:19:57.308 [main] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.24]
+17:19:57.530 [main] INFO  o.a.c.c.C.[.[.[/duker] - [log,173] - Initializing Spring embedded WebApplicationContext
+17:19:58.034 [main] INFO  o.m.p.j.JmsPoolConnectionFactory - [setConnectionFactory,198] - Provided ConnectionFactory implementation is JMS 2.0+ capable.
+17:20:00.803 [main] INFO  c.a.d.s.b.a.DruidDataSourceAutoConfigure - [dataSource,56] - Init DruidDataSource
+17:20:01.810 [main] INFO  c.a.d.p.DruidDataSource - [init,930] - {dataSource-1} inited
+17:20:07.546 [main] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Starting ProtocolHandler ["http-nio-9026"]
+17:20:07.665 [main] INFO  c.d.c.DukerApplication - [logStarted,59] - Started DukerApplication in 21.212 seconds (JVM running for 37.981)
+17:25:05.965 [taskScheduler-3] INFO  c.d.c.t.UserDataSendTask - [send,46] - 用户数据包已成功发布（推送）, 时间=2019-10-18 17:05:25, 数据包=[{"title":"测试","userId":"2ew2d7675derr3","userLastlogin":"2019-09-11 14:10:53","userName":"张玲","userPassword":"e10adc3949ba59abbe56e057f20f883e","userRegdate":"2019-09-11 14:08:53"}]

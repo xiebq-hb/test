@@ -1,0 +1,337 @@
+10:24:09.403 [main] INFO  c.a.b.d.c.e.WelcomeLogoApplicationListener - [onApplicationEvent,53] - 
+
+ :: Dubbo Spring Boot (v0.2.0) : https://github.com/apache/incubator-dubbo-spring-boot-project
+ :: Dubbo (v2.6.2) : https://github.com/apache/incubator-dubbo
+ :: Google group : dev@dubbo.incubator.apache.org
+
+10:24:09.648 [main] INFO  c.a.b.d.c.e.OverrideDubboConfigApplicationListener - [onApplicationEvent,68] - Dubbo Config was overridden by externalized configuration {}
+10:24:16.364 [main] INFO  c.d.c.DukerApplication - [logStarting,50] - Starting DukerApplication on SC-201906251903 with PID 11152 (E:\peosonal\duker\target\classes started by Administrator in E:\peosonal\duker)
+10:24:16.365 [main] INFO  c.d.c.DukerApplication - [logStartupProfileInfo,648] - No active profile set, falling back to default profiles: default
+10:25:26.062 [main] INFO  c.a.b.d.c.e.WelcomeLogoApplicationListener - [onApplicationEvent,53] - 
+
+ :: Dubbo Spring Boot (v0.2.0) : https://github.com/apache/incubator-dubbo-spring-boot-project
+ :: Dubbo (v2.6.2) : https://github.com/apache/incubator-dubbo
+ :: Google group : dev@dubbo.incubator.apache.org
+
+10:25:26.073 [main] INFO  c.a.b.d.c.e.OverrideDubboConfigApplicationListener - [onApplicationEvent,68] - Dubbo Config was overridden by externalized configuration {}
+10:25:27.107 [main] INFO  c.d.c.DukerApplication - [logStarting,50] - Starting DukerApplication on SC-201906251903 with PID 14772 (E:\peosonal\duker\target\classes started by Administrator in E:\peosonal\duker)
+10:25:27.108 [main] INFO  c.d.c.DukerApplication - [logStartupProfileInfo,648] - No active profile set, falling back to default profiles: default
+10:25:33.728 [main] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-9026"]
+10:25:33.843 [main] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+10:25:33.844 [main] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.24]
+10:25:34.403 [main] INFO  o.a.c.c.C.[.[.[/duker] - [log,173] - Initializing Spring embedded WebApplicationContext
+10:25:38.906 [main] INFO  c.a.d.s.b.a.DruidDataSourceAutoConfigure - [dataSource,56] - Init DruidDataSource
+10:25:39.247 [main] INFO  c.a.d.p.DruidDataSource - [init,930] - {dataSource-1} inited
+10:25:41.954 [main] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Starting ProtocolHandler ["http-nio-9026"]
+10:25:42.093 [main] INFO  c.d.c.DukerApplication - [logStarted,59] - Started DukerApplication in 17.225 seconds (JVM running for 26.001)
+10:26:13.343 [http-nio-9026-exec-1] INFO  o.a.c.c.C.[.[.[/duker] - [log,173] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+10:26:13.659 [http-nio-9026-exec-1] INFO  c.d.c.c.DemoController - [createId,24] - *************** 生成ID ******************
+10:26:13.660 [http-nio-9026-exec-1] INFO  c.d.c.c.DemoController - [createId,25] - result=107729547318
+10:26:13.660 [http-nio-9026-exec-1] INFO  c.d.c.c.DemoController - [createId,26] - *************** 生成ID ******************
+10:26:49.278 [http-nio-9026-exec-5] INFO  c.d.c.c.DemoController - [createId,24] - *************** 生成ID ******************
+10:26:49.279 [http-nio-9026-exec-5] INFO  c.d.c.c.DemoController - [createId,25] - result=107729618554
+10:26:49.280 [http-nio-9026-exec-5] INFO  c.d.c.c.DemoController - [createId,26] - *************** 生成ID ******************
+10:27:17.878 [main] INFO  c.a.b.d.c.e.WelcomeLogoApplicationListener - [onApplicationEvent,53] - 
+
+ :: Dubbo Spring Boot (v0.2.0) : https://github.com/apache/incubator-dubbo-spring-boot-project
+ :: Dubbo (v2.6.2) : https://github.com/apache/incubator-dubbo
+ :: Google group : dev@dubbo.incubator.apache.org
+
+10:27:17.895 [main] INFO  c.a.b.d.c.e.OverrideDubboConfigApplicationListener - [onApplicationEvent,68] - Dubbo Config was overridden by externalized configuration {}
+10:27:18.234 [main] INFO  c.d.c.DukerApplication - [logStarting,50] - Starting DukerApplication on SC-201906251903 with PID 18848 (E:\peosonal\duker\target\classes started by Administrator in E:\peosonal\duker)
+10:27:18.235 [main] INFO  c.d.c.DukerApplication - [logStartupProfileInfo,648] - No active profile set, falling back to default profiles: default
+10:27:23.156 [main] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-9026"]
+10:27:23.178 [main] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+10:27:23.179 [main] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.24]
+10:27:23.452 [main] INFO  o.a.c.c.C.[.[.[/duker] - [log,173] - Initializing Spring embedded WebApplicationContext
+10:27:25.794 [main] INFO  c.a.d.s.b.a.DruidDataSourceAutoConfigure - [dataSource,56] - Init DruidDataSource
+10:27:25.959 [main] INFO  c.a.d.p.DruidDataSource - [init,930] - {dataSource-1} inited
+10:27:27.291 [main] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Starting ProtocolHandler ["http-nio-9026"]
+10:27:27.388 [main] INFO  c.d.c.DukerApplication - [logStarted,59] - Started DukerApplication in 10.642 seconds (JVM running for 21.753)
+10:27:35.031 [http-nio-9026-exec-1] INFO  o.a.c.c.C.[.[.[/duker] - [log,173] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+10:27:35.176 [http-nio-9026-exec-1] INFO  c.d.c.c.DemoController - [createId,24] - *************** 生成ID ******************
+10:27:35.180 [http-nio-9026-exec-1] INFO  c.d.c.c.DemoController - [createId,25] - result=107729710352
+10:27:35.181 [http-nio-9026-exec-1] INFO  c.d.c.c.DemoController - [createId,26] - 测试热部署
+10:27:35.182 [http-nio-9026-exec-1] INFO  c.d.c.c.DemoController - [createId,27] - *************** 生成ID ******************
+10:33:00.518 [main] INFO  c.a.b.d.c.e.WelcomeLogoApplicationListener - [onApplicationEvent,53] - 
+
+ :: Dubbo Spring Boot (v0.2.0) : https://github.com/apache/incubator-dubbo-spring-boot-project
+ :: Dubbo (v2.6.2) : https://github.com/apache/incubator-dubbo
+ :: Google group : dev@dubbo.incubator.apache.org
+
+10:33:00.533 [main] INFO  c.a.b.d.c.e.OverrideDubboConfigApplicationListener - [onApplicationEvent,68] - Dubbo Config was overridden by externalized configuration {}
+10:33:01.118 [main] INFO  c.d.c.DukerApplication - [logStarting,50] - Starting DukerApplication on SC-201906251903 with PID 1684 (E:\peosonal\duker\target\classes started by Administrator in E:\peosonal\duker)
+10:33:01.119 [main] INFO  c.d.c.DukerApplication - [logStartupProfileInfo,648] - No active profile set, falling back to default profiles: default
+10:33:05.513 [main] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-9026"]
+10:33:05.527 [main] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+10:33:05.527 [main] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.24]
+10:33:05.747 [main] INFO  o.a.c.c.C.[.[.[/duker] - [log,173] - Initializing Spring embedded WebApplicationContext
+10:33:07.395 [main] INFO  c.a.d.s.b.a.DruidDataSourceAutoConfigure - [dataSource,56] - Init DruidDataSource
+10:33:07.532 [main] INFO  c.a.d.p.DruidDataSource - [init,930] - {dataSource-1} inited
+10:33:08.623 [main] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Starting ProtocolHandler ["http-nio-9026"]
+10:33:08.691 [main] INFO  c.d.c.DukerApplication - [logStarted,59] - Started DukerApplication in 9.187 seconds (JVM running for 18.236)
+10:33:21.053 [http-nio-9026-exec-1] INFO  o.a.c.c.C.[.[.[/duker] - [log,173] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+10:33:21.180 [http-nio-9026-exec-1] INFO  c.d.c.c.DemoController - [createId,24] - *************** 生成ID ******************
+10:33:21.181 [http-nio-9026-exec-1] INFO  c.d.c.c.DemoController - [createId,25] - result=107730402360
+10:33:21.182 [http-nio-9026-exec-1] INFO  c.d.c.c.DemoController - [createId,26] - 测试热部署
+10:33:21.183 [http-nio-9026-exec-1] INFO  c.d.c.c.DemoController - [createId,27] - *************** 生成ID ******************
+10:33:28.850 [http-nio-9026-exec-2] INFO  c.d.c.c.DemoController - [createId,24] - *************** 生成ID ******************
+10:33:28.851 [http-nio-9026-exec-2] INFO  c.d.c.c.DemoController - [createId,25] - result=107730417700
+10:33:28.851 [http-nio-9026-exec-2] INFO  c.d.c.c.DemoController - [createId,26] - 测试热部署
+10:33:28.852 [http-nio-9026-exec-2] INFO  c.d.c.c.DemoController - [createId,27] - *************** 生成ID ******************
+10:33:34.398 [http-nio-9026-exec-5] INFO  c.d.c.c.DemoController - [createId,24] - *************** 生成ID ******************
+10:33:34.399 [http-nio-9026-exec-5] INFO  c.d.c.c.DemoController - [createId,25] - result=107730428796
+10:33:34.399 [http-nio-9026-exec-5] INFO  c.d.c.c.DemoController - [createId,26] - 测试热部署
+10:33:34.400 [http-nio-9026-exec-5] INFO  c.d.c.c.DemoController - [createId,27] - *************** 生成ID ******************
+10:34:16.316 [main] INFO  c.a.b.d.c.e.WelcomeLogoApplicationListener - [onApplicationEvent,53] - 
+
+ :: Dubbo Spring Boot (v0.2.0) : https://github.com/apache/incubator-dubbo-spring-boot-project
+ :: Dubbo (v2.6.2) : https://github.com/apache/incubator-dubbo
+ :: Google group : dev@dubbo.incubator.apache.org
+
+10:34:16.331 [main] INFO  c.a.b.d.c.e.OverrideDubboConfigApplicationListener - [onApplicationEvent,68] - Dubbo Config was overridden by externalized configuration {}
+10:34:16.664 [main] INFO  c.d.c.DukerApplication - [logStarting,50] - Starting DukerApplication on SC-201906251903 with PID 8880 (E:\peosonal\duker\target\classes started by Administrator in E:\peosonal\duker)
+10:34:16.665 [main] INFO  c.d.c.DukerApplication - [logStartupProfileInfo,648] - No active profile set, falling back to default profiles: default
+10:34:20.864 [main] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-9026"]
+10:34:20.881 [main] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+10:34:20.881 [main] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.24]
+10:34:21.141 [main] INFO  o.a.c.c.C.[.[.[/duker] - [log,173] - Initializing Spring embedded WebApplicationContext
+10:34:23.129 [main] INFO  c.a.d.s.b.a.DruidDataSourceAutoConfigure - [dataSource,56] - Init DruidDataSource
+10:34:23.258 [main] INFO  c.a.d.p.DruidDataSource - [init,930] - {dataSource-1} inited
+10:34:24.320 [main] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Starting ProtocolHandler ["http-nio-9026"]
+10:34:24.410 [main] INFO  c.d.c.DukerApplication - [logStarted,59] - Started DukerApplication in 9.045 seconds (JVM running for 19.688)
+10:38:41.782 [http-nio-9026-exec-2] INFO  o.a.c.c.C.[.[.[/duker] - [log,173] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+10:38:41.921 [http-nio-9026-exec-2] INFO  c.d.c.c.DemoController - [createId,24] - *************** 生成ID ******************
+10:38:41.922 [http-nio-9026-exec-2] INFO  c.d.c.c.DemoController - [createId,25] - result=107731043842
+10:38:41.923 [http-nio-9026-exec-2] INFO  c.d.c.c.DemoController - [createId,26] - *************** 生成ID ******************
+10:39:14.409 [http-nio-9026-exec-1] INFO  c.d.c.c.DemoController - [createId,24] - *************** 生成ID ******************
+10:39:14.410 [http-nio-9026-exec-1] INFO  c.d.c.c.DemoController - [createId,25] - result=107731108816
+10:39:14.411 [http-nio-9026-exec-1] INFO  c.d.c.c.DemoController - [createId,26] - *************** 生成ID ******************
+10:39:58.948 [http-nio-9026-exec-3] INFO  c.d.c.c.DemoController - [createId,24] - *************** 生成ID ******************
+10:39:58.952 [http-nio-9026-exec-3] INFO  c.d.c.c.DemoController - [createId,25] - result=107731197896
+10:39:58.953 [http-nio-9026-exec-3] INFO  c.d.c.c.DemoController - [createId,26] - 测试热部署代码
+10:39:58.954 [http-nio-9026-exec-3] INFO  c.d.c.c.DemoController - [createId,27] - *************** 生成ID ******************
+10:41:31.707 [http-nio-9026-exec-5] INFO  c.d.c.c.DemoController - [createId,24] - *************** 生成ID ******************
+10:41:31.708 [http-nio-9026-exec-5] INFO  c.d.c.c.DemoController - [createId,25] - result=107731383414
+10:41:31.709 [http-nio-9026-exec-5] INFO  c.d.c.c.DemoController - [createId,26] - 测试热部署代码
+10:41:31.710 [http-nio-9026-exec-5] INFO  c.d.c.c.DemoController - [createId,27] - *************** 生成ID ******************
+10:41:36.690 [http-nio-9026-exec-6] INFO  c.d.c.c.DemoController - [createId,24] - *************** 生成ID ******************
+10:41:36.691 [http-nio-9026-exec-6] INFO  c.d.c.c.DemoController - [createId,25] - result=107731393380
+10:41:36.691 [http-nio-9026-exec-6] INFO  c.d.c.c.DemoController - [createId,26] - 测试热部署代码
+10:41:36.692 [http-nio-9026-exec-6] INFO  c.d.c.c.DemoController - [createId,27] - *************** 生成ID ******************
+10:42:00.256 [http-nio-9026-exec-7] INFO  c.d.c.c.DemoController - [createId,24] - *************** 生成ID ******************
+10:42:00.260 [http-nio-9026-exec-7] INFO  c.d.c.c.DemoController - [createId,25] - result=107731440508
+10:42:00.263 [http-nio-9026-exec-7] INFO  c.d.c.c.DemoController - [createId,26] - 测试热部署代码
+10:42:00.264 [http-nio-9026-exec-7] INFO  c.d.c.c.DemoController - [createId,27] - *************** 生成ID ******************
+10:42:44.520 [http-nio-9026-exec-8] INFO  c.d.c.c.DemoController - [createId,24] - *************** 生成ID ******************
+10:42:44.521 [http-nio-9026-exec-8] INFO  c.d.c.c.DemoController - [createId,25] - result=107731529040
+10:42:44.522 [http-nio-9026-exec-8] INFO  c.d.c.c.DemoController - [createId,26] - 测试热部署代码
+10:42:44.522 [http-nio-9026-exec-8] INFO  c.d.c.c.DemoController - [createId,27] - *************** 生成ID ******************
+10:45:32.927 [http-nio-9026-exec-2] INFO  c.d.c.c.DemoController - [createId,24] - *************** 生成ID ******************
+10:45:32.929 [http-nio-9026-exec-2] INFO  c.d.c.c.DemoController - [createId,25] - result=107731865852
+10:45:32.930 [http-nio-9026-exec-2] INFO  c.d.c.c.DemoController - [createId,26] - 测试热部署代码
+10:45:32.930 [http-nio-9026-exec-2] INFO  c.d.c.c.DemoController - [createId,27] - *************** 生成ID ******************
+10:46:38.835 [http-nio-9026-exec-4] INFO  c.d.c.c.DemoController - [createId,24] - *************** 生成ID ******************
+10:46:38.836 [http-nio-9026-exec-4] INFO  c.d.c.c.DemoController - [createId,25] - result=107731997670
+10:46:38.838 [http-nio-9026-exec-4] INFO  c.d.c.c.DemoController - [createId,26] - 测试热部署代码
+10:46:38.838 [http-nio-9026-exec-4] INFO  c.d.c.c.DemoController - [createId,27] - *************** 生成ID ******************
+10:46:51.456 [http-nio-9026-exec-6] INFO  c.d.c.c.DemoController - [createId,24] - *************** 生成ID ******************
+10:46:51.457 [http-nio-9026-exec-6] INFO  c.d.c.c.DemoController - [createId,25] - result=107732022912
+10:46:51.458 [http-nio-9026-exec-6] INFO  c.d.c.c.DemoController - [createId,26] - *************** 生成ID ******************
+10:47:15.037 [http-nio-9026-exec-8] INFO  c.d.c.c.DemoController - [createId,24] - *************** 生成ID ******************
+10:47:15.038 [http-nio-9026-exec-8] INFO  c.d.c.c.DemoController - [createId,25] - result=107732070074
+10:47:15.053 [http-nio-9026-exec-8] INFO  c.d.c.c.DemoController - [createId,26] - *************** 生成ID ******************
+10:47:21.559 [http-nio-9026-exec-9] INFO  c.d.c.c.DemoController - [createId,24] - *************** 生成ID ******************
+10:47:21.559 [http-nio-9026-exec-9] INFO  c.d.c.c.DemoController - [createId,25] - result=107732083118
+10:47:21.560 [http-nio-9026-exec-9] INFO  c.d.c.c.DemoController - [createId,26] - 测试热部署
+10:47:21.561 [http-nio-9026-exec-9] INFO  c.d.c.c.DemoController - [createId,27] - *************** 生成ID ******************
+10:47:52.014 [http-nio-9026-exec-2] INFO  c.d.c.c.DemoController - [createId,24] - *************** 生成ID ******************
+10:47:52.016 [http-nio-9026-exec-2] INFO  c.d.c.c.DemoController - [createId,25] - result=107732144028
+10:47:52.016 [http-nio-9026-exec-2] INFO  c.d.c.c.DemoController - [createId,26] - *************** 生成ID ******************
+10:50:20.150 [http-nio-9026-exec-4] INFO  c.d.c.c.DemoController - [createId,24] - *************** 生成ID ******************
+10:50:20.153 [http-nio-9026-exec-4] INFO  c.d.c.c.DemoController - [createId,25] - result=107732440300
+10:50:20.154 [http-nio-9026-exec-4] INFO  c.d.c.c.DemoController - [createId,26] - 热部署测试
+10:50:20.156 [http-nio-9026-exec-4] INFO  c.d.c.c.DemoController - [createId,27] - *************** 生成ID ******************
+10:51:27.875 [http-nio-9026-exec-7] INFO  c.d.c.c.DemoController - [createId,24] - *************** 生成ID ******************
+10:51:27.876 [http-nio-9026-exec-7] INFO  c.d.c.c.DemoController - [createId,25] - result=107732575750
+10:51:27.876 [http-nio-9026-exec-7] INFO  c.d.c.c.DemoController - [createId,26] - *************** 生成ID ******************
+13:50:59.402 [main] INFO  c.a.b.d.c.e.WelcomeLogoApplicationListener - [onApplicationEvent,53] - 
+
+ :: Dubbo Spring Boot (v0.2.0) : https://github.com/apache/incubator-dubbo-spring-boot-project
+ :: Dubbo (v2.6.2) : https://github.com/apache/incubator-dubbo
+ :: Google group : dev@dubbo.incubator.apache.org
+
+13:50:59.414 [main] INFO  c.a.b.d.c.e.OverrideDubboConfigApplicationListener - [onApplicationEvent,68] - Dubbo Config was overridden by externalized configuration {}
+13:50:59.870 [main] INFO  c.d.c.DukerApplicationTests - [logStarting,50] - Starting DukerApplicationTests on SC-201906251903 with PID 15228 (started by Administrator in E:\peosonal\duker)
+13:50:59.871 [main] INFO  c.d.c.DukerApplicationTests - [logStartupProfileInfo,648] - No active profile set, falling back to default profiles: default
+13:51:06.361 [main] INFO  c.a.d.c.s.b.f.a.ReferenceAnnotationBeanPostProcessor - [destroy,251] - class com.alibaba.dubbo.config.spring.beans.factory.annotation.ReferenceAnnotationBeanPostProcessor was destroying!
+14:02:38.949 [main] INFO  c.a.b.d.c.e.WelcomeLogoApplicationListener - [onApplicationEvent,53] - 
+
+ :: Dubbo Spring Boot (v0.2.0) : https://github.com/apache/incubator-dubbo-spring-boot-project
+ :: Dubbo (v2.6.2) : https://github.com/apache/incubator-dubbo
+ :: Google group : dev@dubbo.incubator.apache.org
+
+14:02:38.960 [main] INFO  c.a.b.d.c.e.OverrideDubboConfigApplicationListener - [onApplicationEvent,68] - Dubbo Config was overridden by externalized configuration {}
+14:02:39.102 [main] INFO  c.d.c.DukerApplicationTests - [logStarting,50] - Starting DukerApplicationTests on SC-201906251903 with PID 19876 (started by Administrator in E:\peosonal\duker)
+14:02:39.103 [main] INFO  c.d.c.DukerApplicationTests - [logStartupProfileInfo,648] - No active profile set, falling back to default profiles: default
+14:02:46.583 [main] INFO  c.a.d.s.b.a.DruidDataSourceAutoConfigure - [dataSource,56] - Init DruidDataSource
+14:02:46.837 [main] INFO  c.a.d.p.DruidDataSource - [init,930] - {dataSource-1} inited
+14:02:50.922 [main] INFO  c.d.c.DukerApplicationTests - [logStarted,59] - Started DukerApplicationTests in 12.797 seconds (JVM running for 16.117)
+14:02:53.541 [main] INFO  i.l.c.EpollProvider - [<clinit>,68] - Starting without optional epoll library
+14:02:53.543 [main] INFO  i.l.c.KqueueProvider - [<clinit>,70] - Starting without optional kqueue library
+14:02:54.498 [main] INFO  c.d.c.DukerApplicationTests - [redis_put,58] - redis 缓存成功
+14:02:54.564 [Thread-5] INFO  c.a.d.p.DruidDataSource - [close,1825] - {dataSource-1} closed
+14:02:55.707 [Thread-5] INFO  c.a.d.c.s.b.f.a.ReferenceAnnotationBeanPostProcessor - [destroy,251] - class com.alibaba.dubbo.config.spring.beans.factory.annotation.ReferenceAnnotationBeanPostProcessor was destroying!
+14:04:35.394 [main] INFO  c.a.b.d.c.e.WelcomeLogoApplicationListener - [onApplicationEvent,53] - 
+
+ :: Dubbo Spring Boot (v0.2.0) : https://github.com/apache/incubator-dubbo-spring-boot-project
+ :: Dubbo (v2.6.2) : https://github.com/apache/incubator-dubbo
+ :: Google group : dev@dubbo.incubator.apache.org
+
+14:04:35.405 [main] INFO  c.a.b.d.c.e.OverrideDubboConfigApplicationListener - [onApplicationEvent,68] - Dubbo Config was overridden by externalized configuration {}
+14:04:35.554 [main] INFO  c.d.c.DukerApplicationTests - [logStarting,50] - Starting DukerApplicationTests on SC-201906251903 with PID 16240 (started by Administrator in E:\peosonal\duker)
+14:04:35.555 [main] INFO  c.d.c.DukerApplicationTests - [logStartupProfileInfo,648] - No active profile set, falling back to default profiles: default
+14:04:42.205 [main] INFO  c.a.d.s.b.a.DruidDataSourceAutoConfigure - [dataSource,56] - Init DruidDataSource
+14:04:42.405 [main] INFO  c.a.d.p.DruidDataSource - [init,930] - {dataSource-1} inited
+14:04:43.826 [main] INFO  c.d.c.DukerApplicationTests - [logStarted,59] - Started DukerApplicationTests in 9.322 seconds (JVM running for 12.543)
+14:04:44.453 [main] INFO  i.l.c.EpollProvider - [<clinit>,68] - Starting without optional epoll library
+14:04:44.456 [main] INFO  i.l.c.KqueueProvider - [<clinit>,70] - Starting without optional kqueue library
+14:04:44.899 [main] INFO  c.d.c.DukerApplicationTests - [redis_put,58] - redis 缓存成功
+14:04:44.914 [Thread-5] INFO  c.a.d.p.DruidDataSource - [close,1825] - {dataSource-1} closed
+14:04:46.076 [Thread-5] INFO  c.a.d.c.s.b.f.a.ReferenceAnnotationBeanPostProcessor - [destroy,251] - class com.alibaba.dubbo.config.spring.beans.factory.annotation.ReferenceAnnotationBeanPostProcessor was destroying!
+14:05:43.042 [main] INFO  c.a.b.d.c.e.WelcomeLogoApplicationListener - [onApplicationEvent,53] - 
+
+ :: Dubbo Spring Boot (v0.2.0) : https://github.com/apache/incubator-dubbo-spring-boot-project
+ :: Dubbo (v2.6.2) : https://github.com/apache/incubator-dubbo
+ :: Google group : dev@dubbo.incubator.apache.org
+
+14:05:43.054 [main] INFO  c.a.b.d.c.e.OverrideDubboConfigApplicationListener - [onApplicationEvent,68] - Dubbo Config was overridden by externalized configuration {}
+14:05:43.203 [main] INFO  c.d.c.DukerApplicationTests - [logStarting,50] - Starting DukerApplicationTests on SC-201906251903 with PID 20200 (started by Administrator in E:\peosonal\duker)
+14:05:43.204 [main] INFO  c.d.c.DukerApplicationTests - [logStartupProfileInfo,648] - No active profile set, falling back to default profiles: default
+14:05:49.809 [main] INFO  c.a.d.s.b.a.DruidDataSourceAutoConfigure - [dataSource,56] - Init DruidDataSource
+14:05:50.104 [main] INFO  c.a.d.p.DruidDataSource - [init,930] - {dataSource-1} inited
+14:05:51.646 [main] INFO  c.d.c.DukerApplicationTests - [logStarted,59] - Started DukerApplicationTests in 9.361 seconds (JVM running for 12.955)
+14:05:52.174 [main] INFO  i.l.c.EpollProvider - [<clinit>,68] - Starting without optional epoll library
+14:05:52.177 [main] INFO  i.l.c.KqueueProvider - [<clinit>,70] - Starting without optional kqueue library
+14:05:52.621 [main] INFO  c.d.c.DukerApplicationTests - [redis_del,75] - redis 清除缓存
+14:05:52.638 [Thread-5] INFO  c.a.d.p.DruidDataSource - [close,1825] - {dataSource-1} closed
+14:05:53.782 [Thread-5] INFO  c.a.d.c.s.b.f.a.ReferenceAnnotationBeanPostProcessor - [destroy,251] - class com.alibaba.dubbo.config.spring.beans.factory.annotation.ReferenceAnnotationBeanPostProcessor was destroying!
+14:06:34.246 [main] INFO  c.a.b.d.c.e.WelcomeLogoApplicationListener - [onApplicationEvent,53] - 
+
+ :: Dubbo Spring Boot (v0.2.0) : https://github.com/apache/incubator-dubbo-spring-boot-project
+ :: Dubbo (v2.6.2) : https://github.com/apache/incubator-dubbo
+ :: Google group : dev@dubbo.incubator.apache.org
+
+14:06:34.277 [main] INFO  c.a.b.d.c.e.OverrideDubboConfigApplicationListener - [onApplicationEvent,68] - Dubbo Config was overridden by externalized configuration {}
+14:06:34.480 [main] INFO  c.d.c.DukerApplicationTests - [logStarting,50] - Starting DukerApplicationTests on SC-201906251903 with PID 11568 (started by Administrator in E:\peosonal\duker)
+14:06:34.483 [main] INFO  c.d.c.DukerApplicationTests - [logStartupProfileInfo,648] - No active profile set, falling back to default profiles: default
+14:06:41.789 [main] INFO  c.a.d.s.b.a.DruidDataSourceAutoConfigure - [dataSource,56] - Init DruidDataSource
+14:06:41.948 [main] INFO  c.a.d.p.DruidDataSource - [init,930] - {dataSource-1} inited
+14:06:43.185 [main] INFO  c.d.c.DukerApplicationTests - [logStarted,59] - Started DukerApplicationTests in 9.679 seconds (JVM running for 11.917)
+14:06:43.691 [main] INFO  i.l.c.EpollProvider - [<clinit>,68] - Starting without optional epoll library
+14:06:43.695 [main] INFO  i.l.c.KqueueProvider - [<clinit>,70] - Starting without optional kqueue library
+14:06:44.207 [main] INFO  c.d.c.DukerApplicationTests - [redis_put,58] - redis 缓存成功
+14:06:44.228 [Thread-5] INFO  c.a.d.p.DruidDataSource - [close,1825] - {dataSource-1} closed
+14:06:45.422 [Thread-5] INFO  c.a.d.c.s.b.f.a.ReferenceAnnotationBeanPostProcessor - [destroy,251] - class com.alibaba.dubbo.config.spring.beans.factory.annotation.ReferenceAnnotationBeanPostProcessor was destroying!
+14:07:18.661 [main] INFO  c.a.b.d.c.e.WelcomeLogoApplicationListener - [onApplicationEvent,53] - 
+
+ :: Dubbo Spring Boot (v0.2.0) : https://github.com/apache/incubator-dubbo-spring-boot-project
+ :: Dubbo (v2.6.2) : https://github.com/apache/incubator-dubbo
+ :: Google group : dev@dubbo.incubator.apache.org
+
+14:07:18.672 [main] INFO  c.a.b.d.c.e.OverrideDubboConfigApplicationListener - [onApplicationEvent,68] - Dubbo Config was overridden by externalized configuration {}
+14:07:18.914 [main] INFO  c.d.c.DukerApplicationTests - [logStarting,50] - Starting DukerApplicationTests on SC-201906251903 with PID 18940 (started by Administrator in E:\peosonal\duker)
+14:07:18.915 [main] INFO  c.d.c.DukerApplicationTests - [logStartupProfileInfo,648] - No active profile set, falling back to default profiles: default
+14:07:26.478 [main] INFO  c.a.d.s.b.a.DruidDataSourceAutoConfigure - [dataSource,56] - Init DruidDataSource
+14:07:26.653 [main] INFO  c.a.d.p.DruidDataSource - [init,930] - {dataSource-1} inited
+14:07:28.713 [main] INFO  c.d.c.DukerApplicationTests - [logStarted,59] - Started DukerApplicationTests in 10.903 seconds (JVM running for 15.007)
+14:07:29.298 [main] INFO  i.l.c.EpollProvider - [<clinit>,68] - Starting without optional epoll library
+14:07:29.302 [main] INFO  i.l.c.KqueueProvider - [<clinit>,70] - Starting without optional kqueue library
+14:07:30.134 [main] INFO  c.d.c.DukerApplicationTests - [redis_get,94] - redis 获取缓存成功
+14:07:30.154 [Thread-5] INFO  c.a.d.p.DruidDataSource - [close,1825] - {dataSource-1} closed
+14:07:31.308 [Thread-5] INFO  c.a.d.c.s.b.f.a.ReferenceAnnotationBeanPostProcessor - [destroy,251] - class com.alibaba.dubbo.config.spring.beans.factory.annotation.ReferenceAnnotationBeanPostProcessor was destroying!
+14:08:32.760 [main] INFO  c.a.b.d.c.e.WelcomeLogoApplicationListener - [onApplicationEvent,53] - 
+
+ :: Dubbo Spring Boot (v0.2.0) : https://github.com/apache/incubator-dubbo-spring-boot-project
+ :: Dubbo (v2.6.2) : https://github.com/apache/incubator-dubbo
+ :: Google group : dev@dubbo.incubator.apache.org
+
+14:08:32.784 [main] INFO  c.a.b.d.c.e.OverrideDubboConfigApplicationListener - [onApplicationEvent,68] - Dubbo Config was overridden by externalized configuration {}
+14:08:32.998 [main] INFO  c.d.c.DukerApplicationTests - [logStarting,50] - Starting DukerApplicationTests on SC-201906251903 with PID 20424 (started by Administrator in E:\peosonal\duker)
+14:08:32.999 [main] INFO  c.d.c.DukerApplicationTests - [logStartupProfileInfo,648] - No active profile set, falling back to default profiles: default
+14:08:43.698 [main] INFO  c.a.d.s.b.a.DruidDataSourceAutoConfigure - [dataSource,56] - Init DruidDataSource
+14:08:44.138 [main] INFO  c.a.d.p.DruidDataSource - [init,930] - {dataSource-1} inited
+14:08:46.277 [main] INFO  c.d.c.DukerApplicationTests - [logStarted,59] - Started DukerApplicationTests in 14.397 seconds (JVM running for 17.781)
+14:08:46.858 [main] INFO  i.l.c.EpollProvider - [<clinit>,68] - Starting without optional epoll library
+14:08:46.860 [main] INFO  i.l.c.KqueueProvider - [<clinit>,70] - Starting without optional kqueue library
+14:08:47.737 [main] INFO  c.d.c.DukerApplicationTests - [redis_get,93] - redis 获取缓存成功
+14:08:47.768 [Thread-5] INFO  c.a.d.p.DruidDataSource - [close,1825] - {dataSource-1} closed
+14:08:48.913 [Thread-5] INFO  c.a.d.c.s.b.f.a.ReferenceAnnotationBeanPostProcessor - [destroy,251] - class com.alibaba.dubbo.config.spring.beans.factory.annotation.ReferenceAnnotationBeanPostProcessor was destroying!
+14:09:55.692 [main] INFO  c.a.b.d.c.e.WelcomeLogoApplicationListener - [onApplicationEvent,53] - 
+
+ :: Dubbo Spring Boot (v0.2.0) : https://github.com/apache/incubator-dubbo-spring-boot-project
+ :: Dubbo (v2.6.2) : https://github.com/apache/incubator-dubbo
+ :: Google group : dev@dubbo.incubator.apache.org
+
+14:09:55.709 [main] INFO  c.a.b.d.c.e.OverrideDubboConfigApplicationListener - [onApplicationEvent,68] - Dubbo Config was overridden by externalized configuration {}
+14:09:56.159 [main] INFO  c.d.c.DukerApplicationTests - [logStarting,50] - Starting DukerApplicationTests on SC-201906251903 with PID 19856 (started by Administrator in E:\peosonal\duker)
+14:09:56.160 [main] INFO  c.d.c.DukerApplicationTests - [logStartupProfileInfo,648] - No active profile set, falling back to default profiles: default
+14:10:04.812 [main] INFO  c.a.d.s.b.a.DruidDataSourceAutoConfigure - [dataSource,56] - Init DruidDataSource
+14:10:05.002 [main] INFO  c.a.d.p.DruidDataSource - [init,930] - {dataSource-1} inited
+14:10:06.374 [main] INFO  c.d.c.DukerApplicationTests - [logStarted,59] - Started DukerApplicationTests in 11.43 seconds (JVM running for 13.631)
+14:10:07.082 [main] INFO  i.l.c.EpollProvider - [<clinit>,68] - Starting without optional epoll library
+14:10:07.085 [main] INFO  i.l.c.KqueueProvider - [<clinit>,70] - Starting without optional kqueue library
+14:10:07.669 [main] INFO  c.d.c.DukerApplicationTests - [redis_put,59] - redis 缓存成功
+14:10:07.691 [Thread-5] INFO  c.a.d.p.DruidDataSource - [close,1825] - {dataSource-1} closed
+14:10:08.868 [Thread-5] INFO  c.a.d.c.s.b.f.a.ReferenceAnnotationBeanPostProcessor - [destroy,251] - class com.alibaba.dubbo.config.spring.beans.factory.annotation.ReferenceAnnotationBeanPostProcessor was destroying!
+14:12:20.988 [main] INFO  c.a.b.d.c.e.WelcomeLogoApplicationListener - [onApplicationEvent,53] - 
+
+ :: Dubbo Spring Boot (v0.2.0) : https://github.com/apache/incubator-dubbo-spring-boot-project
+ :: Dubbo (v2.6.2) : https://github.com/apache/incubator-dubbo
+ :: Google group : dev@dubbo.incubator.apache.org
+
+14:12:21.009 [main] INFO  c.a.b.d.c.e.OverrideDubboConfigApplicationListener - [onApplicationEvent,68] - Dubbo Config was overridden by externalized configuration {}
+14:12:21.184 [main] INFO  c.d.c.DukerApplicationTests - [logStarting,50] - Starting DukerApplicationTests on SC-201906251903 with PID 15840 (started by Administrator in E:\peosonal\duker)
+14:12:21.185 [main] INFO  c.d.c.DukerApplicationTests - [logStartupProfileInfo,648] - No active profile set, falling back to default profiles: default
+14:12:30.935 [main] INFO  c.a.d.s.b.a.DruidDataSourceAutoConfigure - [dataSource,56] - Init DruidDataSource
+14:12:31.147 [main] INFO  c.a.d.p.DruidDataSource - [init,930] - {dataSource-1} inited
+14:12:32.635 [main] INFO  c.d.c.DukerApplicationTests - [logStarted,59] - Started DukerApplicationTests in 12.292 seconds (JVM running for 14.449)
+14:12:33.304 [main] INFO  i.l.c.EpollProvider - [<clinit>,68] - Starting without optional epoll library
+14:12:33.307 [main] INFO  i.l.c.KqueueProvider - [<clinit>,70] - Starting without optional kqueue library
+14:12:33.991 [main] INFO  c.d.c.DukerApplicationTests - [redis_put,63] - redis 缓存失败
+14:12:34.017 [Thread-5] INFO  c.a.d.p.DruidDataSource - [close,1825] - {dataSource-1} closed
+14:12:35.169 [Thread-5] INFO  c.a.d.c.s.b.f.a.ReferenceAnnotationBeanPostProcessor - [destroy,251] - class com.alibaba.dubbo.config.spring.beans.factory.annotation.ReferenceAnnotationBeanPostProcessor was destroying!
+14:16:40.714 [main] INFO  c.a.b.d.c.e.WelcomeLogoApplicationListener - [onApplicationEvent,53] - 
+
+ :: Dubbo Spring Boot (v0.2.0) : https://github.com/apache/incubator-dubbo-spring-boot-project
+ :: Dubbo (v2.6.2) : https://github.com/apache/incubator-dubbo
+ :: Google group : dev@dubbo.incubator.apache.org
+
+14:16:40.736 [main] INFO  c.a.b.d.c.e.OverrideDubboConfigApplicationListener - [onApplicationEvent,68] - Dubbo Config was overridden by externalized configuration {}
+14:16:40.960 [main] INFO  c.d.c.DukerApplicationTests - [logStarting,50] - Starting DukerApplicationTests on SC-201906251903 with PID 9180 (started by Administrator in E:\peosonal\duker)
+14:16:40.961 [main] INFO  c.d.c.DukerApplicationTests - [logStartupProfileInfo,648] - No active profile set, falling back to default profiles: default
+14:16:47.970 [main] INFO  c.a.d.s.b.a.DruidDataSourceAutoConfigure - [dataSource,56] - Init DruidDataSource
+14:16:48.159 [main] INFO  c.a.d.p.DruidDataSource - [init,930] - {dataSource-1} inited
+14:16:49.559 [main] INFO  c.d.c.DukerApplicationTests - [logStarted,59] - Started DukerApplicationTests in 10.16 seconds (JVM running for 13.831)
+14:16:50.096 [main] INFO  i.l.c.EpollProvider - [<clinit>,68] - Starting without optional epoll library
+14:16:50.099 [main] INFO  i.l.c.KqueueProvider - [<clinit>,70] - Starting without optional kqueue library
+14:16:50.669 [main] INFO  c.d.c.DukerApplicationTests - [redis_del,78] - redis 清除缓存
+14:16:50.690 [Thread-5] INFO  c.a.d.p.DruidDataSource - [close,1825] - {dataSource-1} closed
+14:16:51.839 [Thread-5] INFO  c.a.d.c.s.b.f.a.ReferenceAnnotationBeanPostProcessor - [destroy,251] - class com.alibaba.dubbo.config.spring.beans.factory.annotation.ReferenceAnnotationBeanPostProcessor was destroying!
+14:17:12.596 [main] INFO  c.a.b.d.c.e.WelcomeLogoApplicationListener - [onApplicationEvent,53] - 
+
+ :: Dubbo Spring Boot (v0.2.0) : https://github.com/apache/incubator-dubbo-spring-boot-project
+ :: Dubbo (v2.6.2) : https://github.com/apache/incubator-dubbo
+ :: Google group : dev@dubbo.incubator.apache.org
+
+14:17:12.612 [main] INFO  c.a.b.d.c.e.OverrideDubboConfigApplicationListener - [onApplicationEvent,68] - Dubbo Config was overridden by externalized configuration {}
+14:17:12.854 [main] INFO  c.d.c.DukerApplicationTests - [logStarting,50] - Starting DukerApplicationTests on SC-201906251903 with PID 19556 (started by Administrator in E:\peosonal\duker)
+14:17:12.855 [main] INFO  c.d.c.DukerApplicationTests - [logStartupProfileInfo,648] - No active profile set, falling back to default profiles: default
+14:17:19.823 [main] INFO  c.a.d.s.b.a.DruidDataSourceAutoConfigure - [dataSource,56] - Init DruidDataSource
+14:17:20.033 [main] INFO  c.a.d.p.DruidDataSource - [init,930] - {dataSource-1} inited
+14:17:21.388 [main] INFO  c.d.c.DukerApplicationTests - [logStarted,59] - Started DukerApplicationTests in 9.689 seconds (JVM running for 12.21)
+14:17:21.996 [main] INFO  i.l.c.EpollProvider - [<clinit>,68] - Starting without optional epoll library
+14:17:21.999 [main] INFO  i.l.c.KqueueProvider - [<clinit>,70] - Starting without optional kqueue library
+14:17:22.614 [main] INFO  c.d.c.DukerApplicationTests - [redis_put,61] - redis 缓存成功
+14:17:22.639 [Thread-5] INFO  c.a.d.p.DruidDataSource - [close,1825] - {dataSource-1} closed
+14:17:23.800 [Thread-5] INFO  c.a.d.c.s.b.f.a.ReferenceAnnotationBeanPostProcessor - [destroy,251] - class com.alibaba.dubbo.config.spring.beans.factory.annotation.ReferenceAnnotationBeanPostProcessor was destroying!

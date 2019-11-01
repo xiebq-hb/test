@@ -1,0 +1,18 @@
+10:18:57.069 [main] INFO  c.a.b.d.c.e.WelcomeLogoApplicationListener - [onApplicationEvent,53] - 
+
+ :: Dubbo Spring Boot (v0.2.0) : https://github.com/apache/incubator-dubbo-spring-boot-project
+ :: Dubbo (v2.6.2) : https://github.com/apache/incubator-dubbo
+ :: Google group : dev@dubbo.incubator.apache.org
+
+10:18:57.113 [main] INFO  c.a.b.d.c.e.OverrideDubboConfigApplicationListener - [onApplicationEvent,68] - Dubbo Config was overridden by externalized configuration {}
+10:18:59.741 [main] INFO  c.d.c.DukerApplication - [logStarting,50] - Starting DukerApplication on SC-201906251903 with PID 62516 (E:\peosonal\duker\target\classes started by Administrator in E:\peosonal\duker)
+10:18:59.743 [main] INFO  c.d.c.DukerApplication - [logStartupProfileInfo,648] - No active profile set, falling back to default profiles: default
+10:19:18.028 [main] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-9026"]
+10:19:18.072 [main] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+10:19:18.072 [main] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.24]
+10:19:18.437 [main] INFO  o.a.c.c.C.[.[.[/duker] - [log,173] - Initializing Spring embedded WebApplicationContext
+10:19:25.301 [main] INFO  c.a.d.s.b.a.DruidDataSourceAutoConfigure - [dataSource,56] - Init DruidDataSource
+10:19:26.237 [main] INFO  c.a.d.p.DruidDataSource - [init,930] - {dataSource-1} inited
+10:19:37.587 [main] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Starting ProtocolHandler ["http-nio-9026"]
+10:19:37.708 [main] INFO  c.d.c.DukerApplication - [logStarted,59] - Started DukerApplication in 44.657 seconds (JVM running for 58.843)
+10:21:53.317 [http-nio-9026-exec-9] INFO  o.a.c.c.C.[.[.[/duker] - [log,173] - Initializing Spring DispatcherServlet 'dispatcherServlet'

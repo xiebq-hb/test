@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.duker.core.mapper.BCusTabFieldInfoMapper">
+
+    <!-- 通用查询映射结果 -->
+    <resultMap id="BaseResultMap" type="com.duker.core.entity.BCusTabFieldInfoEntity">
+        <id column="id" property="id" />
+        <result column="table_id" property="tableId" />
+        <result column="cus_field" property="cusField" />
+        <result column="local_field" property="localField" />
+        <result column="field_type" property="fieldType" />
+        <result column="field_length" property="fieldLength" />
+        <result column="field_order" property="fieldOrder" />
+        <result column="field_alias" property="fieldAlias" />
+        <result column="field_explain" property="fieldExplain" />
+        <result column="remark" property="remark" />
+        <result column="crate_by" property="crateBy" />
+        <result column="crate_date" property="crateDate" />
+        <result column="modified_by" property="modifiedBy" />
+        <result column="modified_date" property="modifiedDate" />
+    </resultMap>
+
+    <!-- 通用查询结果列 -->
+    <sql id="Base_Column_List">
+        id, table_id, cus_field, local_field, field_type, field_length, field_order, field_alias, field_explain, remark, crate_by, crate_date, modified_by, modified_date
+    </sql>
+
+</mapper>
