@@ -19,7 +19,7 @@
         <dubbo.version>0.2.0</dubbo.version>
         <mybatis.plus.version>3.1.2</mybatis.plus.version>
         <mysql.verion>5.1.38</mysql.verion>
-        <logback.verion>1.1.11</logback.verion>
+        <logback.verion>1.2.0</logback.verion>
         <druid.verion>1.1.10</druid.verion>
         <velocity.verion>2.0</velocity.verion>
         <fastjson.verion>1.2.49</fastjson.verion>
