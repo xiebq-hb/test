@@ -22,7 +22,7 @@
         <logback.verion>1.1.11</logback.verion>
         <druid.verion>1.1.10</druid.verion>
         <velocity.verion>2.0</velocity.verion>
-        <fastjson.verion>1.2.49</fastjson.verion>
+        <fastjson.verion>1.2.83</fastjson.verion>
     </properties>
 
     <dependencies>
